@@ -1,0 +1,406 @@
+Công nghệ CPU,Số nhân,Số luồng,Tốc độ CPU,NPU,Hiệu năng xử lý AI (TOPS)
+"['AMD Ryzen 5 - 7430U', 'AMD Ryzen 5']",6,12,2.30 GHz (Lên đến 4.30 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 7520U', 'AMD Ryzen 5']",4,8,2.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Apple M4 - Hãng không công bố,10,Hãng không công bố,120 GB/s memory bandwidth,,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12450H', 'Intel Core i5 Alder Lake']",8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i3 Raptor Lake - 1315U,6,8,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 6600H', 'AMD Ryzen 5']",6,12,3.30 GHz (Lên đến 4.50 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12450H', 'Intel Core i5 Alder Lake']",8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['Apple M2', 'Apple M2']",8,Hãng không công bố,100GB/s,,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12450HX', 'Intel Core i5 Alder Lake']",8,12,Lên đến 4.40 GHz khi tải nặng,,
+Intel Core 5 Raptor Lake - 120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core i3 Raptor Lake - 1315U,6,8,Lên đến 4.50 GHz khi tải nặng,,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 7520U', 'AMD Ryzen 5']",4,8,2.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i3 Alder Lake chuỗi N - N305,8,8,1.80 GHz (Lên đến 3.80 GHz khi tải nặng),,
+Apple M4 - Hãng không công bố,10,Hãng không công bố,120 GB/s memory bandwidth,,
+"['Intel Core i5 Alder Lake - 12450H', 'Intel Core i5 Alder Lake']",8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 6600H', 'AMD Ryzen 5']",6,12,3.30 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12500H', 'Intel Core i5 Alder Lake']",12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 7535HS', 'AMD Ryzen 5']",6,12,3.30 GHz (Lên đến 4.55 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 7530U', 'AMD Ryzen 5']",6,12,2.00 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12500H', 'Intel Core i5 Alder Lake']",12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 5700U', 'AMD Ryzen 7']",8,16,1.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 210H,8,12,1.60 GHz (Lên đến 4.80 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12450HX', 'Intel Core i5 Alder Lake']",8,12,Lên đến 4.40 GHz khi tải nặng,,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+"['Intel Core i7 Alder Lake - 1255U', 'Intel Core i7 Alder Lake']",10,12,1.70 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13450HX,10,16,2.40 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 7435HS', 'AMD Ryzen 7']",8,16,3.10 GHz (Lên đến 4.50 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12500H', 'Intel Core i5 Alder Lake']",12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 7530U', 'AMD Ryzen 5']",6,12,2.00 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Apple M4 - Hãng không công bố,10,Hãng không công bố,120 GB/s memory bandwidth,,
+Intel Core i3 Raptor Lake - 1315U,6,8,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 5700U', 'AMD Ryzen 7']",8,16,1.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 7435HS', 'AMD Ryzen 7']",8,16,3.10 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12450HX', 'Intel Core i5 Alder Lake']",8,12,Lên đến 4.40 GHz khi tải nặng,,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['Intel Core i3 Alder Lake - 1215U', 'Intel Core i3 Alder Lake', '1215U']",6,8,1.2GHz,,
+Intel Core i3 Raptor Lake - 1305U,5,6,1.6GHz,,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 7435HS', 'AMD Ryzen 7']",8,16,3.10 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 7235HS', 'AMD Ryzen 5']",4,8,3.20 GHz (Lên đến 4.20 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13450HX,10,16,2.40 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12450H', 'Intel Core i5 Alder Lake']",8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Apple M4 - Hãng không công bố,10,Hãng không công bố,120 GB/s memory bandwidth,,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12450HX', 'Intel Core i5 Alder Lake']",8,12,Lên đến 4.40 GHz khi tải nặng,,
+Intel Core Ultra 5 Meteor Lake - 125H,14,18,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core Ultra 7 Meteor Lake - 155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core 7 Raptor Lake - 150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+"['Intel Core i7 Alder Lake - 1255U', 'Intel Core i7 Alder Lake']",10,12,1.70 GHz (Lên đến 4.70 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12450H', 'Intel Core i5 Alder Lake']",8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+"['Intel Core i7 Alder Lake - 1255U', 'Intel Core i7 Alder Lake']",10,12,1.70 GHz (Lên đến 4.70 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 8845HS', 'AMD Ryzen 7']",8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+AMD Ryzen AI 7 - 350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Apple M4 Pro - Hãng không công bố,12,Hãng không công bố,273 GB/s memory bandwidth,,
+"['Intel Core i5 Alder Lake - 12450H', 'Intel Core i5 Alder Lake']",8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+AMD Ryzen AI 5 - 340,6,12,2.00 GHz (Lên đến 4.80 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+"['AMD Ryzen 5 - 7520U', 'AMD Ryzen 5']",4,8,2.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core Ultra 5 Meteor Lake - 125U,12,14,1.30 GHz (Lên đến 4.30 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core Ultra 5 Arrow Lake - 225H,14,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+"['AMD Ryzen 5 - 7530U', 'AMD Ryzen 5']",6,12,2.00 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Intel Core Ultra 5 Meteor Lake - 125H,14,18,3.60 GHz (Lên đến 4.50 GHz khi tải nặng),,
+"['Intel Core i7 Alder Lake - 1255U', 'Intel Core i7 Alder Lake']",10,12,1.70 GHz (Lên đến 4.70 GHz khi tải nặng),,
+"['Intel Core i7 Alder Lake - 12650H', 'Intel Core i7 Alder Lake']",10,16,3.50 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 7435HS', 'AMD Ryzen 7']",8,16,3.10 GHz (Lên đến 4.50 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12450H', 'Intel Core i5 Alder Lake']",8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core 7 Raptor Lake - 150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12500H', 'Intel Core i5 Alder Lake']",12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Intel Core Ultra 7 Arrow Lake - 255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Apple M4 Pro - Hãng không công bố,12,Hãng không công bố,273 GB/s memory bandwidth,,
+"['Intel Core i5 Alder Lake - 12450H', 'Intel Core i5 Alder Lake']",8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core Ultra 5 Meteor Lake - 125H,14,18,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['Intel Core i7 Alder Lake - 1255U', 'Intel Core i7 Alder Lake']",10,12,1.70 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core Ultra 7 Meteor Lake - 155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 11 TOPS
+Intel Core Ultra 5 Meteor Lake - 125H,14,18,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core Ultra 5 Arrow Lake - 225H,14,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core Ultra 7 Meteor Lake - 155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+"['AMD Ryzen 7 - 7840HS', 'AMD Ryzen 7']",8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Max 10 TOPS
+"['AMD Ryzen 5 - 7535HS', 'AMD Ryzen 5']",6,12,3.30 GHz (Lên đến 4.55 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 7435HS', 'AMD Ryzen 7']",8,16,3.10 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core Ultra 5 Meteor Lake - 125U,12,14,1.30 GHz (Lên đến 4.30 GHz khi tải nặng),Intel AI Boost,Lên đến 11 TOPS
+Intel Core 7 Raptor Lake - 150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+Intel Core Ultra 5 Meteor Lake - 125U,12,14,1.30 GHz (Lên đến 4.30 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core Ultra 7 Arrow Lake - 255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+"['AMD Ryzen 7 - 5700U', 'AMD Ryzen 7']",8,16,1.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['Intel Core i7 Alder Lake - 1255U', 'Intel Core i7 Alder Lake']",10,12,3.50 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 8840HS', 'AMD Ryzen 7']",8,16,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12500H', 'Intel Core i5 Alder Lake']",12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core 7 Raptor Lake - 150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+"['Intel Core i7 Alder Lake - 1260P', 'Intel Core i7 Alder Lake']",12,16,2.10 GHz (Lên đến 4.70 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 7430U', 'AMD Ryzen 5']",6,12,2.30 GHz (Lên đến 4.30 GHz khi tải nặng),,
+Intel Core Ultra 7 Arrow Lake - 255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core i7 Raptor Lake - 13650HX,14,20,2.60 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,3.4 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 7730U', 'AMD Ryzen 7']",8,16,2.00 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core 7 Raptor Lake - 150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 7640HS', 'AMD Ryzen 5']",6,12,4.30 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Max 10 TOPS
+Intel Core i5 Raptor Lake - 13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core Ultra 7 Meteor Lake - 155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,
+Intel Core Ultra 7 Meteor Lake - 155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 11 TOPS
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 7735HS', 'AMD Ryzen 7']",8,16,3.20 GHz (Lên đến 4.75 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 7535HS', 'AMD Ryzen 5']",6,12,3.30 GHz (Lên đến 4.55 GHz khi tải nặng),,
+"['Intel Core i7 Alder Lake - 12650H', 'Intel Core i7 Alder Lake']",10,16,2.30 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['Intel Core i3 Alder Lake - 1215U', 'Intel Core i3 Alder Lake', '1215U']",6,8,1.2GHz,,
+Intel Core i7 Raptor Lake - 13650HX,14,20,2.60 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core Ultra 7 Arrow Lake - 255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core Ultra 7 Meteor Lake - 155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core Ultra 9 Arrow Lake - 285H,16,16,2.90 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+"['AMD Ryzen 5 - 8640U', 'AMD Ryzen 5']",6,12,3.50 GHz (Lên đến 4.90 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+Intel Core 7 Raptor Lake - 150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+Intel Core Ultra 5 Arrow Lake - 225H,14,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13650HX,14,20,2.60 GHz (Lên đến 4.90 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 8640HS', 'AMD Ryzen 5']",6,12,3.50 GHz (Lên đến 4.90 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core Ultra 7 Lunar Lake - 258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+Intel Core Ultra 7 Arrow Lake - 255HX,20,20,2.40 GHz (Lên đến 5.20 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 14650HX,16,24,2.20 GHz (Lên đến 5.20 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['Intel Core i3 Alder Lake - 1215U', 'Intel Core i3 Alder Lake', '1215U']",6,8,1.2GHz,,
+"['AMD Ryzen 7 - 8840HS', 'AMD Ryzen 7']",8,16,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+Intel Core Ultra 7 Meteor Lake - 155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core Ultra 7 Meteor Lake - 155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 11 TOPS
+Intel Core 5 Raptor Lake - 120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i9 Raptor Lake - 13900H,14,20,2.6GHz,,
+"['Intel Core i5 Alder Lake - 12500H', 'Intel Core i5 Alder Lake']",12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core Ultra 5 Arrow Lake - 225U,12,14,1.50 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 7735HS', 'AMD Ryzen 7']",8,16,3.20 GHz (Lên đến 4.75 GHz khi tải nặng),,
+Intel Core Ultra 7 Lunar Lake - 258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+Intel Core Ultra 7 Meteor Lake - 155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+"['AMD Ryzen 5 - 8640HS', 'AMD Ryzen 5']",6,12,3.50 GHz (Lên đến 4.90 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+Intel Core 5 Raptor Lake - 210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core 7 Raptor Lake - 150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1240P', 'Intel Core i5 Alder Lake']",12,16,1.70 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core Ultra 7 Meteor Lake - 155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Snapdragon X Plus - X1P 42 100,8,Hãng không công bố,Lên đến 3.40 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+"['AMD Ryzen 7 - 8845HS', 'AMD Ryzen 7']",8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+Intel Core 5 Raptor Lake - 210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core Ultra 5 Lunar Lake - 226V,8,8,2.10 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Lên đến 40 TOPS
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1240P', 'Intel Core i5 Alder Lake']",12,16,1.70 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core i9 Raptor Lake - 13900HX,24,32,3.90 GHz (Lên đến 5.40 GHz khi tải nặng),,
+Intel Core Ultra 7 Meteor Lake - 155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core i7 Raptor Lake - 13650HX,14,20,2.60 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core Ultra 5 Lunar Lake - 228V,8,8,2.10 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Lên đến 40 TOPS
+Intel Core Ultra 7 Arrow Lake - 255HX,20,20,2.40 GHz (Lên đến 5.20 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core Ultra 5 Lunar Lake - 226V,8,8,2.10 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Lên đến 40 TOPS
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['Intel Core i3 Alder Lake - 1215U', 'Intel Core i3 Alder Lake', '1215U']",6,8,1.2GHz,,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 8840HS', 'AMD Ryzen 7']",8,16,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+AMD Ryzen AI 7 - 260,8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+Intel Core Ultra 7 Lunar Lake - 258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+Intel Core 5 Raptor Lake - 210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Snapdragon X - X1 26 100,8,Hãng không công bố,Lên đến 3.00 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core 7 Raptor Lake - 240H,10,16,2.50 GHz (Lên đến 5.20 GHz khi tải nặng),,
+Intel Core Ultra 5 Arrow Lake - 225U,12,14,1.50 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,
+"['Intel Core i5 Tiger Lake - 1135G7', 'Intel Core i5 Tiger Lake', '1135G7']",4,8,2.40 GHz (Lên đến 4.20 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core Ultra 7 Meteor Lake - 155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core Ultra 5 Arrow Lake - 225H,14,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+"['AMD Ryzen 7 - 7445HS', 'AMD Ryzen 7']",6,12,3.10 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core Ultra 7 Lunar Lake - 258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+"['Intel Core i3 Alder Lake - 1215U', 'Intel Core i3 Alder Lake', '1215U']",6,8,1.2GHz,,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 8845HS', 'AMD Ryzen 7']",8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+AMD Ryzen AI 7 - 350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+AMD Ryzen AI 7 - 350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+Intel Core Ultra 7 Arrow Lake - 255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+"['AMD Ryzen 5 - 7640HS', 'AMD Ryzen 5']",6,12,4.30 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Max 10 TOPS
+"['Intel Core i7 Alder Lake - 12700H', 'Intel Core i7 Alder Lake']",14,20,2.30 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core Ultra 7 Meteor Lake - 155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+"['AMD Ryzen 7 - 7840HS', 'AMD Ryzen 7']",8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Max 10 TOPS
+"['Intel Core i5 Alder Lake - 12500H', 'Intel Core i5 Alder Lake']",12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+AMD Ryzen AI 7 - 350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+Intel Core Ultra 7 Arrow Lake - 255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+"['AMD Ryzen 5 - 8645HS', 'AMD Ryzen 5']",6,12,4.30 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+Intel Core Ultra 7 Lunar Lake - 258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 14650HX,16,24,2.20 GHz (Lên đến 5.20 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core Ultra 7 Arrow Lake - 255HX,20,20,2.40 GHz (Lên đến 5.20 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core i5 Raptor Lake - 14450HX,10,16,2.40 GHz (Lên đến 4.80 GHz khi tải nặng),,
+Intel Core Ultra 7 Meteor Lake - 155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core Ultra 7 Meteor Lake - 155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core Ultra 9 Arrow Lake - 285H,16,16,2.90 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core Ultra 7 Arrow Lake - 255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core Ultra 5 Meteor Lake - 125H,14,18,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+"['Intel Core i7 Alder Lake - 12700H', 'Intel Core i7 Alder Lake']",14,20,2.30 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13700H,14,20,Lên đến 5.00 GHz khi tải nặng,,
+Intel Core Ultra 7 Lunar Lake - 258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+Intel Core Ultra 9 Arrow Lake - 275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core 7 Raptor Lake - 150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+AMD Ryzen AI 7 - 350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+Snapdragon X - X1 26 100,8,Hãng không công bố,Lên đến 3.00 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+Intel Core 5 Raptor Lake - 210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Snapdragon X Plus - X1P 42 100,8,Hãng không công bố,Lên đến 3.40 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+AMD Ryzen AI 5 - 340,6,12,2.00 GHz (Lên đến 4.80 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 7535HS', 'AMD Ryzen 5']",6,12,3.30 GHz (Lên đến 4.55 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 7535HS', 'AMD Ryzen 5']",6,12,3.30 GHz (Lên đến 4.55 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core Ultra 7 Lunar Lake - 258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+Intel Core Ultra 5 Arrow Lake - 225H,14,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core Ultra 5 Meteor Lake - 135U,12,14,1.6GHz,Intel AI Boost,Hãng không công bố
+Intel Core i7 Raptor Lake - 14650HX,16,24,2.20 GHz (Lên đến 5.20 GHz khi tải nặng),,
+Intel Core Ultra 9 Arrow Lake - 275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core 5 Raptor Lake - 210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core Ultra 9 Arrow Lake - 275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Snapdragon X Plus - X1P-64-100,10,Hãng không công bố,Lên đến 3.40 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+"['Intel Core i5 Alder Lake - 1235U', 'Intel Core i5 Alder Lake']",10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core Ultra 5 Meteor Lake - 125H,14,18,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core Ultra 9 Arrow Lake - 275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core i7 Raptor Lake - 14650HX,16,24,2.20 GHz (Lên đến 5.20 GHz khi tải nặng),,
+Snapdragon X Plus - X1P-64-100,10,Hãng không công bố,Lên đến 3.40 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+Intel Core 7 Raptor Lake - 240H,10,16,2.50 GHz (Lên đến 5.20 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+"['Intel Core i7 Alder Lake - 12700H', 'Intel Core i7 Alder Lake']",14,20,2.30 GHz (Lên đến 4.70 GHz khi tải nặng),,
+Intel Core Ultra 5 Arrow Lake - 225H,14,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core 5 Raptor Lake - 120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core Ultra 7 Meteor Lake - 165U,12,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core Ultra 7 Arrow Lake - 255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core i7 Raptor Lake - 13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+Intel Core 5 Raptor Lake - 210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+Intel Core 7 Raptor Lake - 240H,10,16,1.80 GHz (Lên đến 5.20 GHz khi tải nặng),,
+Intel Core Ultra 9 Lunar Lake - 288V,8,8,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Lên đến 48 TOPS
+Intel Core Ultra 7 Lunar Lake - 258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+Intel Core 7 Raptor Lake - 240H,10,16,1.80 GHz (Lên đến 5.20 GHz khi tải nặng),,
+Intel Core Ultra 9 Arrow Lake - 285HX,24,24,2.8GHz,Intel AI Boost,Max 13 TOPS
+Intel Core 9 Raptor Lake - 270H,14,20,2.70 GHz (Lên đến 5.80 GHz khi tải nặng),,
+Intel Core Ultra 9 Arrow Lake - 285HX,24,24,2.8GHz,Intel AI Boost,Max 13 TOPS
+Intel Core Ultra 9 Arrow Lake - 275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Apple M4 - Hãng không công bố,10,Hãng không công bố,120 GB/s memory bandwidth,,
+Intel Core i5 Raptor Lake - 1334U,10,12,3.4 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['Apple M1', 'Apple M1']",8,Hãng không công bố,Hãng không công bố,,
+Intel Core 7 Raptor Lake - 150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+Apple M4 - Hãng không công bố,10,Hãng không công bố,120 GB/s memory bandwidth,,
+"['Intel Celeron - N4500', 'Intel Celeron']",2,2,1.1GHz,,
+Apple M4 Max - Hãng không công bố,14,Hãng không công bố,410 GB/s memory bandwidth,,
+Intel Core 7 Raptor Lake - 150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+Celeron - N4500,2,2,1.1GHz,,
+Intel Core Ultra 7 Meteor Lake - 165U,12,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Apple M4 - Hãng không công bố,10,Hãng không công bố,120 GB/s memory bandwidth,,
+Apple M4 - Hãng không công bố,10,Hãng không công bố,120 GB/s memory bandwidth,,
+AMD Ryzen AI 9 - HX PRO 375,12,24,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Max 55 TOPS
+Intel Core i7 Raptor Lake - 14650HX,16,24,2.20 GHz (Lên đến 5.20 GHz khi tải nặng),,
+Intel Core i7 Raptor Lake - 1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+Intel Core Ultra 5 Meteor Lake - 135U,12,14,1.6GHz,Intel AI Boost,Hãng không công bố
+Apple M4 Pro - Hãng không công bố,12,Hãng không công bố,273 GB/s memory bandwidth,,
+Apple M4 - Hãng không công bố,10,Hãng không công bố,120 GB/s memory bandwidth,,
+Intel Core i7 Raptor Lake - 14650HX,16,24,2.20 GHz (Lên đến 5.20 GHz khi tải nặng),,
+Snapdragon X Elite - X1E 78 100,12,12,Lên đến 3.40 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+Intel Core i7 Raptor Lake - 13650HX,14,20,2.60 GHz (Lên đến 4.90 GHz khi tải nặng),,
+AMD Ryzen AI 7 - 350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+AMD Ryzen AI 7 - 350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+Intel Core i5 Raptor Lake - 13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['Intel Core i5 Alder Lake - 12450H', 'Intel Core i5 Alder Lake']",8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+Intel Core Ultra 7 Meteor Lake - 155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+Intel Core Ultra 9 Arrow Lake - 275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core Ultra 9 Arrow Lake - 275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core Ultra 9 Arrow Lake - 275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+Intel Core Ultra 9 Lunar Lake - 288V,8,8,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Lên đến 40 TOPS
+Intel Core Ultra 7 Lunar Lake - 258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+Intel Core Ultra 9 Lunar Lake - 288V,8,8,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),,
+AMD Ryzen AI 9 - HX 370,12,24,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+"['AMD Ryzen 5 - 7535HS', 'AMD Ryzen 5']",6,12,3.30 GHz (Lên đến 4.55 GHz khi tải nặng),,
+Intel Core Ultra 7 Lunar Lake - 258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+Intel Core Ultra 7 Lunar Lake - 258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+Intel Core Ultra 7 Arrow Lake - 255U,12,14,2 GHz (Lên đến 5.20 GHz khi tải nặng),Intel AI Boost,Lên đến 12 TOPS
+Intel Core i7 Raptor Lake - 14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+"['AMD Ryzen 7 - 260', 'AMD Ryzen 7']",8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+"['AMD Ryzen 5 - 7530U', 'AMD Ryzen 5']",6,12,2.00 GHz (Lên đến 4.50 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+"['AMD Ryzen 5 - 7430U', 'AMD Ryzen 5']",6,12,2.30 GHz (Lên đến 4.30 GHz khi tải nặng),,
+Intel Core i5 Raptor Lake - 13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
