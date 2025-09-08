@@ -1,0 +1,406 @@
+RAM,Loại RAM,Tốc độ Bus RAM,Hỗ trợ RAM tối đa,Ổ cứng,data_id
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,16 GB,512 GB SSD NVMe PCIe,327098
+16 GB,LPDDR5 (Onboard),5500 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",311178
+16 GB,DDR5 (1 khe 8 GB onboard + 1 khe 8 GB),4800 MHz,24 GB,"['512 GB SSD NVMe PCIe', 'Hỗ trợ khe cắm SSD M.2']",334442
+16 GB,Hãng không công bố,Hãng không công bố,Không hỗ trợ nâng cấp,256 GB SSD,335362
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2600 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",337470
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),Đang cập nhật,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",336967
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"['512 GB SSD NVMe PCIe', 'Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)']",321192
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",338207
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),3200 MHz,16 GB,512 GB SSD NVMe PCIe,334792
+24 GB,DDR5 (1 khe 8 GB onboard + 1 khe 16 GB),4800 MHz,24 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",334450
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),4800 MHz,96 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",333427
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,64 GB,"['512 GB SSD NVMe PCIe Gen 4.0', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng']",326124
+16 GB,Hãng không công bố,Hãng không công bố,Không hỗ trợ nâng cấp,256 GB SSD,289472
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)']",334803
+16 GB,DDR5 (1 khe RAM),4800 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",335556
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,512 GB SSD NVMe PCIe Gen 4.0,338323
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),3200 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",326050
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),4800 MHz,64 GB,"512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",334996
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",331362
+16 GB,LPDDR5 (Onboard),5500 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe Gen 4.0,325500
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,512 GB SSD NVMe PCIe Gen 4.0,340564
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,16 GB,512 GB SSD NVMe PCIe,338311
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,512 GB SSD NVMe PCIe,323920
+8 GB,LPDDR5 (Onboard),4800 MHz,Không hỗ trợ nâng cấp,"256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",334997
+16 GB,Hãng không công bố,Hãng không công bố,Không hỗ trợ nâng cấp,256 GB SSD,335372
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,64 GB,"['512 GB SSD NVMe PCIe', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng']",326279
+8 GB,DDR4 (Onboard),3200 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe,310449
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",340486
+24 GB,DDR5 (1 khe 8 GB onboard + 1 khe 16 GB),4800 MHz,24 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",334446
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",339679
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),4800 MHz,96 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",333430
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",328235
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",321467
+24 GB,DDR5 (1 khe 8 GB onboard + 1 khe 16 GB),4800 MHz,24 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",337233
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,512 GB SSD NVMe PCIe,328237
+8 GB,DDR4 (1 khe 8 GB onboard + 1 khe trống),3200 MHz,16 GB,512 GB SSD NVMe PCIe,337420
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),3200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",334999
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",338204
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",329786
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,32 GB,512 GB SSD NVMe PCIe,341563
+16 GB,DDR4 (Onboard),3200 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe Gen 4.0,326830
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",339683
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)']",333886
+16 GB,DDR5 (1 khe RAM),4800 MHz,32 GB,"['512 GB SSD NVMe PCIe', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB)']",332365
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,512 GB SSD NVMe PCIe,333104
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,512 GB SSD NVMe PCIe,311176
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5200 MHz,64 GB,512 GB SSD NVMe PCIe Gen 4.0,341612
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),1600 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",343120
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),4800 MHz,32 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",335554
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),2666 MHz,16 GB,1 TB SSD M.2 PCIe,325247
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",325691
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,512 GB SSD NVMe PCIe,328238
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),3200 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",338206
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",327872
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB (2280) / 1 TB (2230))",337476
+8 GB,DDR4 (1 khe 8 GB onboard + 1 khe trống),3200 MHz,16 GB,512 GB SSD NVMe PCIe,326049
+16 GB,Hãng không công bố,Hãng không công bố,Hãng không công bố,512 GB SSD,331564
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,64 GB,1 TB SSD NVMe PCIe Gen 4,326122
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),1600 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",343121
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339687
+24 GB,DDR5 (1 khe 12 GB + 1 khe 12 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",338278
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,512 GB SSD NVMe PCIe Gen 4.0,338324
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),2666 MHz,16 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)', 'Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)']",337474
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,512 GB SSD NVMe PCIe,311177
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng']",322072
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),3200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",328906
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,64 GB,1 TB SSD NVMe PCIe Gen 4,310447
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),2400 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",343122
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),2666 MHz,16 GB,512 GB SSD NVMe PCIe,339681
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,16 GB,512 GB SSD NVMe PCIe,340560
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,512 GB SSD NVMe PCIe,341270
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),4800 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",330162
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,16 GB,512 GB SSD NVMe PCIe Gen 4.0,338318
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,512 GB SSD NVMe PCIe Gen 4.0,318163
+24 GB,DDR5 (1 khe 12 GB + 1 khe 12 GB),4800 MHz,32 GB,1 TB SSD NVMe PCIe Gen 4,339857
+24 GB,DDR5 (1 khe 12 GB + 1 khe 12 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",335553
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",328814
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,64 GB,512 GB SSD NVMe PCIe Gen 4.0,327707
+16 GB,Hãng không công bố,Hãng không công bố,Hãng không công bố,1 TB SSD,331566
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",341607
+24 GB,DDR5 (1 khe 12 GB + 1 khe 12 GB),4800 MHz,32 GB,"['512 GB SSD NVMe PCIe Gen 4.0', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng']",327050
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",340559
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,512 GB SSD NVMe PCIe,336036
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",325697
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",334998
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,512 GB SSD NVMe PCIe,328949
+16 GB,LPDDR5 (Onboard),7467 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",337042
+16 GB,DDR4 (Onboard),3200 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe Gen 4.0,326831
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,32 GB,512 GB SSD NVMe PCIe,327097
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,32 GB,1 TB SSD NVMe PCIe Gen 4,335555
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,512 GB SSD NVMe PCIe,333103
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,64 GB,"512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",341602
+32 GB,DDR4 (1 khe 16 GB + 1 khe 16 GB),3200 MHz,64 GB,"['512 GB SSD NVMe PCIe Gen 4.0', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng']",330932
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",334689
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)', 'Hỗ trợ thêm 1 khe cắm HDD SATA (nâng cấp tối đa 1 TB)']",338316
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,"512 GB SSD PCIe M.2 (2280) (Có thể tháo rời, lắp thanh khác tối đa 1 TB (2280))",341618
+16 GB,DDR5 (1 khe 8 GB onboard + 1 khe 8 GB),4800 MHz,24 GB,512 GB SSD NVMe PCIe,338322
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB (2280) / 1 TB (2230))",333102
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,16 GB,512 GB SSD NVMe PCIe,334794
+8 GB,DDR5 (1 khe 8 GB + 1 khe trống),4800 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339202
+16 GB,LPDDR4X (Onboard),4266 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",322222
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",340479
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,32 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",334449
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",339587
+24 GB,Hãng không công bố,Hãng không công bố,Hãng không công bố,512 GB SSD,331568
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,64 GB,"['512 GB SSD NVMe PCIe Gen 4.0', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng']",326861
+16 GB,LPDDR5 (Onboard),7467 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",337044
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",339581
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,512 GB SSD NVMe PCIe,337472
+16 GB,LPDDR5 (Onboard),5500 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",340491
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,16 GB,512 GB SSD NVMe PCIe,322270
+16 GB,DDR5 (1 khe 16 GB onboard + 1 khe rời),4800 MHz,32 GB,512 GB SSD NVMe PCIe,338320
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB)']",313177
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",340484
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng']",314630
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB (2280) / 1 TB (2230))",337475
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5200 MHz,64 GB,512 GB SSD NVMe PCIe,340004
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"['512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)', 'Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)']",340558
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,16 GB,512 GB SSD NVMe PCIe,334795
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",327896
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",340478
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),2666 MHz,16 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)', 'Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)']",337473
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),4800 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",333421
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,"['512 GB SSD NVMe PCIe', 'Hỗ trợ khe cắm SSD M.2']",332578
+16 GB,DDR4 (Onboard),3200 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",340481
+16 GB,LPDDR5 (Onboard),4800 MHz,Không hỗ trợ nâng cấp,1 TB SSD NVMe PCIe Gen 4,322073
+24 GB,DDR5 (1 khe 12 GB + 1 khe 12 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",340487
+24 GB,Hãng không công bố,Hãng không công bố,Hãng không công bố,512 GB SSD,332450
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),3200 MHz,64 GB,"['512 GB SSD NVMe PCIe Gen 4.0', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng']",308697
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),2933 MHz,16 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",317704
+16 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe Gen 4.0,325479
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",333105
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2600 MHz,16 GB,512 GB SSD NVMe PCIe,337469
+16 GB,LPDDR5 (Onboard),7467 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",337041
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),4800 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",333423
+16 GB,DDR4,3200 MHz,32 GB,"512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",341604
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,32 GB,512 GB SSD NVMe PCIe,313974
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,64 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242) / 1 TB (2280))",339656
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,64 GB,"1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",332370
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,64 GB,"['512 GB SSD NVMe PCIe Gen 4.0', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng']",314849
+16 GB,LPDDR5X (Onboard),5200 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",334440
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"512 GB SSD M.2 NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB (2280))",342469
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,16 GB,512 GB SSD NVMe PCIe,327977
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,32 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",330578
+16 GB,LPDDR5 (Onboard),7467 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",337043
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",319657
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,24 GB,1 TB SSD M.2 PCIe,325953
+16 GB,LPDDR5 (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",331506
+16 GB,LPDDR5X (Onboard),Lên đến 8533 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",333424
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,16 GB,"['512 GB SSD NVMe PCIe Gen 4.0', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)']",326641
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,64 GB,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339652
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,96 GB,1 TB SSD NVMe PCIe Gen 4,322100
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"['512 GB SSD NVMe PCIe', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 2 TB)']",329853
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",327898
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe,341568
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,512 GB SSD NVMe PCIe,310839
+16 GB,DDR4 (Onboard),3200 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",340483
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",338312
+16 GB,DDR5 (1 khe 8 GB onboard + 1 khe 8 GB),4800 MHz,56 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339201
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),3200 MHz,32 GB,"512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",325699
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5600 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339653
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5200 MHz,32 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",329736
+32 GB,LPDDR5 (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339265
+16 GB,DDR4 (Onboard),3200 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe,327710
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,512 GB SSD NVMe PCIe Gen 4.0,340565
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),2666 MHz,16 GB,512 GB SSD NVMe PCIe,340562
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,512 GB SSD NVMe PCIe,325477
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),4800 MHz,32 GB,"['1 TB SSD M.2 PCIe Gen 4.0x4 (2242)', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4.0 mở rộng (nâng cấp tối đa 1 TB (2242))']",342526
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,64 GB,512 GB SSD NVMe PCIe,323325
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,16 GB,1 TB SSD M.2 PCIe,329852
+16 GB,LPDDR5X (Onboard),Lên đến 8533 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",333425
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,64 GB,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339655
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,512 GB SSD NVMe PCIe,302209
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,64 GB,512 GB SSD NVMe PCIe,338000
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,40 GB,512 GB SSD NVMe PCIe,309375
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",335170
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,32 GB,512 GB SSD NVMe PCIe,325244
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",328443
+32 GB,LPDDR5X (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",338279
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),Từ 2400 MHz (Hãng công bố),32 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)', 'Hỗ trợ thêm 1 khe cắm HDD SATA (nâng cấp tối đa 1 TB)']",304543
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,64 GB,"1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",332368
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),4800 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",326637
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,32 GB,512 GB SSD NVMe PCIe Gen 4.0,329429
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",328474
+24 GB,DDR5 (1 khe 12 GB + 1 khe 12 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",328483
+8 GB,DDR4 (1 khe 8 GB onboard + 1 khe trống),3200 MHz,64 GB,"['512 GB SSD NVMe PCIe Gen 4.0', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng']",316941
+8 GB,DDR4 (1 khe 8 GB onboard + 1 khe trống),2933 MHz,16 GB,512 GB SSD NVMe PCIe,317712
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),2666 MHz,16 GB,512 GB SSD NVMe PCIe,340561
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,1 TB SSD NVMe PCIe Gen 4,338317
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),4800 MHz,32 GB,1 TB SSD NVMe PCIe Gen 4,333094
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",323335
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),3200 MHz,32 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)', 'Hỗ trợ thêm 1 khe cắm HDD SATA (nâng cấp tối đa 1 TB)', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB)']",272282
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,32 GB,512 GB SSD NVMe PCIe,313973
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),3200 MHz,32 GB,"['512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)']",321436
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5200 MHz,32 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",329112
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,96 GB,512 GB SSD NVMe PCIe,336968
+24 GB,DDR5 (1 khe 12 GB + 1 khe 12 GB),4800 MHz,24 GB,1 TB SSD NVMe PCIe Gen 4,339616
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5600 MHz,32 GB,"1 TB SSD NVMe PCIe Gen 4 x 4 (Có thể tháo ra, lắp thanh khác nâng cấp tối đa 4 TB)",329787
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,512 GB SSD NVMe PCIe,337471
+32 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,1 TB SSD NVMe PCIe Gen 4,336031
+16 GB,DDR5 (Onboard),5600 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe Gen 4.0,335171
+16 GB,LPDDR5 (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",333872
+8 GB,DDR5 (1 khe 8 GB + 1 khe trống),4800 MHz,16 GB,512 GB SSD NVMe PCIe,326876
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5200 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",337843
+16 GB,LPDDR4X (Onboard),4800 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",327506
+16 GB,LPDDR5 (Onboard),6400 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe Gen 4.0,328815
+32 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,1 TB SSD M.2 PCIe,333197
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,96 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 4 TB)']",339952
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,16 GB,"512 GB SSD NVMe PCIe Gen 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242) / 512 GB (2280))",313627
+16 GB,DDR5 (1 khe RAM),5200 MHz,32 GB,512 GB SSD NVMe PCIe,339688
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,1 TB SSD M.2 PCIe,331508
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4400 MHz,24 GB,512 GB SSD NVMe PCIe,333107
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5600 MHz,64 GB,1 TB SSD NVMe PCIe Gen 4,339684
+16 GB,LPDDR5 (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",338208
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",327406
+16 GB,LPDDR5 (Onboard),4800 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",327507
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",341626
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),2400 MHz,96 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",341603
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5600 MHz,64 GB,"512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",328130
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,64 GB,512 GB SSD NVMe PCIe Gen 4.0,339954
+32 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",326558
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",337842
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5600 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",338315
+16 GB,DDR4 (1 khe 16 GB onboard + 1 khe rời),3200 MHz,32 GB,512 GB SSD NVMe PCIe Gen 4.0,328951
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",327409
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,512 GB SSD NVMe PCIe,328950
+"16 GB (Nguyên bản 8GB, được nâng cấp thêm 8GB)",DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)', 'Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)']",327981
+16 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,"512 GB SSD PCIe M.2 (2280) (Có thể tháo rời, lắp thanh khác tối đa 1 TB (2280))",341267
+8 GB,DDR5 (1 khe 8 GB + 1 khe trống),5200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",318354
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,64 GB,512 GB SSD NVMe PCIe Gen 4.0,325586
+32 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,1 TB SSD NVMe PCIe Gen 4,338280
+16 GB,LPDDR5X (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",335549
+16 GB,LPDDR5X (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",325051
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339686
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,512 GB SSD NVMe PCIe,328946
+16 GB,LPDDR5 (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",331526
+8 GB,DDR4 (1 khe 4 GB + 1 khe 4 GB),3200 MHz,32 GB,512 GB SSD NVMe PCIe,302533
+16 GB,LPDDR5X (Onboard),4266 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe Gen 4.0,325480
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,512 GB SSD NVMe PCIe,328473
+16 GB,DDR5 (1 khe 8 GB onboard + 1 khe 8 GB),5200 MHz,24 GB,1 TB SSD M.2 PCIe,328947
+8 GB,DDR5 (1 khe 8 GB + 1 khe trống),4800 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",327508
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5600 MHz,32 GB,"['Hỗ trợ thêm khe cắm SSD NVMe M.2 PCIe Gen 4.0 mở rộng (nâng cấp tối đa 2 TB (2280))', '512 GB SSD NVMe M.2 PCIe Gen 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242))']",342514
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,96 GB,1 TB SSD NVMe PCIe Gen 4,325588
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",329867
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,64 GB,512 GB SSD NVMe PCIe Gen 4.0,322098
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,64 GB,"['512 GB SSD NVMe PCIe', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng']",339953
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5200 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",339211
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,16 GB,512 GB SSD NVMe PCIe,329858
+32 GB,LPDDR5 (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",331527
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,512 GB SSD NVMe PCIe,309565
+16 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe Gen 4.0,333098
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",327901
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",327900
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,512 GB SSD NVMe PCIe,326194
+32 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339661
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),3200 MHz,32 GB,"['512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)']",313332
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,32 GB,1 TB SSD NVMe PCIe Gen 4,339647
+16 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",332397
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,512 GB SSD NVMe PCIe,328945
+8 GB,DDR4 (1 khe 8 GB onboard + 1 khe trống),3200 MHz,16 GB,512 GB SSD NVMe PCIe,312414
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",327899
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,32 GB,"['512 GB SSD NVMe M.2 PCIe Gen 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242))', 'Hỗ trợ thêm 1 khe cắm SSD NVMe M.2 PCIe Gen 4.0 mở rộng (2280)']",342501
+16 GB,LPDDR5 (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",333873
+8 GB,LPDDR5 (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",322003
+24 GB,DDR5 (1 khe 8 GB onboard + 1 khe 16 GB),4800 MHz,24 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",335550
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5600 MHz,96 GB,512 GB SSD NVMe PCIe,340006
+32 GB,LPDDR5 (Onboard),8533 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",335832
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,32 GB,512 GB SSD NVMe PCIe,339680
+16 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,"512 GB SSD PCIe M.2 (2280) (Có thể tháo rời, lắp thanh khác tối đa 1 TB (2280))",341266
+16 GB,LPDDR5X (Onboard),8448 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe,334800
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",339212
+16 GB,DDR5 (1 khe RAM),5200 MHz,32 GB,1 TB SSD NVMe PCIe Gen 4,339690
+16 GB,DDR5 (1 khe 8 GB onboard + 1 khe 8 GB),4800 MHz,24 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",337237
+32 GB,LPDDR5 (Onboard),6400 MHz,Không hỗ trợ nâng cấp,1 TB SSD NVMe PCIe Gen 4,322959
+16 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe,334796
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,16 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",341623
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,512 GB SSD NVMe PCIe,326148
+32 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,1 TB SSD NVMe PCIe Gen 4,333099
+16 GB,DDR5 (1 khe 8 GB onboard + 1 khe 8 GB),4800 MHz,24 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",337242
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,64 GB,1 TB SSD M.2 PCIe,326280
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5600 MHz,96 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",332579
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,64 GB,"1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",341750
+16 GB,DDR5 (1 khe 16 GB onboard + 1 khe rời),4800 MHz,32 GB,512 GB SSD NVMe PCIe,338321
+24 GB,LPDDR5X (Onboard),8000 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe,335172
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",326059
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 2 TB)', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng']",329337
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,32 GB,"1 TB SSD NVMe PCIe Gen 4 x 4 (Có thể tháo ra, lắp thanh khác nâng cấp tối đa 4 TB)",329789
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,64 GB,"1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",323585
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),2400 MHz,96 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",341608
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,"['1 TB SSD M.2 PCIe', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB)']",317709
+16 GB,DDR5 (Onboard),5200 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe,334799
+16 GB,LPDDR5 (Onboard),6400 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe,326824
+32 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,"['1 TB SSD NVMe PCIe Gen 4 x 4 (Có thể tháo ra, lắp thanh khác nâng cấp tối đa 4 TB)', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng']",335020
+32 GB,LPDDR5X (Onboard),8400 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339659
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5200 MHz,64 GB,"512 GB SSD PCIe M.2 (2280) (Có thể tháo rời, lắp thanh khác tối đa 4 TB (2280))",341751
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5600 MHz,64 GB,1 TB SSD NVMe PCIe Gen 4,339685
+8 GB,DDR4 (1 khe 4 GB + 1 khe 4 GB),3200 MHz,16 GB,512 GB SSD NVMe PCIe,311145
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"['512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)']",315892
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",327408
+16 GB,DDR5 (1 khe 8 GB onboard + 1 khe 8 GB),4800 MHz,24 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",334444
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,32 GB,1 TB SSD NVMe PCIe Gen 4,339648
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,96 GB,"512 GB SSD PCIe M.2 (2280) (Có thể tháo rời, lắp thanh khác tối đa 4 TB (2280))",341611
+32 GB,LPDDR5X (Onboard),4800 MHz,32 GB,1 TB SSD NVMe PCIe Gen 4,321468
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,96 GB,512 GB SSD NVMe PCIe Gen 4.0,322099
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),2666 MHz,16 GB,512 GB SSD NVMe PCIe,330165
+32 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,1 TB SSD NVMe PCIe Gen 4,334798
+8 GB,DDR4 (1 khe 4 GB + 1 khe 4 GB),3200 MHz,32 GB,512 GB SSD NVMe PCIe,315911
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5200 MHz,64 GB,"512 GB SSD PCIe M.2 (2280) (Có thể tháo rời, lắp thanh khác tối đa 4 TB (2280))",341752
+24 GB,DDR5 (1 khe 8 GB onboard + 1 khe 16 GB),4800 MHz,24 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",337241
+32 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339658
+16 GB,LPDDR5X (Onboard),5200 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe Gen 4.0,320431
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",327974
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",325002
+32 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339662
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,64 GB,"1 TB SSD NVMe PCIe Gen 4 x 4 (Có thể tháo ra, lắp thanh khác nâng cấp tối đa 4 TB)",337841
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5200 MHz,32 GB,"512 GB SSD M.2 NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",342752
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,32 GB,1 TB SSD M.2 PCIe,326864
+32 GB,LPDDR5X (Onboard),7500 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe Gen 4.0,334802
+16 GB,LPDDR5 (Onboard),8448 MHz,Hãng không công bố,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",335835
+16 GB,LPDDR5X (Onboard),8448 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe,339234
+32 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,1 TB SSD M.2 PCIe,337236
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,96 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB)",339951
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB (2280) / 1 TB (2230))', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)']",327509
+"16 GB (Nguyên bản 8GB, được nâng cấp thêm 8GB)",DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,64 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",334805
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",322269
+16 GB,DDR5 (1 khe 8 GB onboard + 1 khe 8 GB),4800 MHz,24 GB,"512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",335551
+16 GB,LPDDR5X (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",338313
+16 GB,DDR5 (1 khe 8 GB onboard + 1 khe 8 GB),4800 MHz,24 GB,"512 GB SSD M.2 NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280))",342758
+32 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,1 TB SSD NVMe PCIe Gen 4,330579
+16 GB,DDR5 (1 khe 16 GB onboard + 1 khe rời),4800 MHz,32 GB,512 GB SSD NVMe PCIe Gen 4.0,334806
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,96 GB,"512 GB SSD PCIe M.2 (2280) (Có thể tháo rời, lắp thanh khác tối đa 4 TB (2280))",341609
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),6400 MHz,32 GB,"1 TB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242) / 2 TB (2280))",339541
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,Không hỗ trợ nâng cấp,"['512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB (2280) / 1 TB (2230))', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 2 TB)']",325242
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,512 GB SSD NVMe PCIe,311117
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),6400 MHz,32 GB,"1 TB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242) / 2 TB (2280))",339542
+16 GB,LPDDR5X (Onboard),8448 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe,339682
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),2666 MHz,16 GB,"['512 GB SSD NVMe PCIe Gen 4.0', 'Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)']",327982
+16 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,1 TB SSD NVMe PCIe Gen 4,328239
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,96 GB,"512 GB SSD PCIe M.2 (2280) (Có thể tháo rời, lắp thanh khác tối đa 4 TB (2280))",341610
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,32 GB,"512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",320434
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,32 GB,1 TB SSD NVMe PCIe Gen 4,339650
+16 GB,LPDDR5X (Onboard),8448 MHz,Không hỗ trợ nâng cấp,1 TB SSD M.2 PCIe,340563
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,32 GB,1 TB SSD NVMe PCIe Gen 4,341564
+8 GB,DDR4 (1 khe 8 GB + 1 khe rời),2666 MHz,16 GB,"['512 GB SSD NVMe PCIe', 'Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)']",309243
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,96 GB,"['1 TB SSD NVMe PCIe Gen 4', 'Hỗ trợ thêm 1 khe SSD NVMe PCIe Gen 5']",325583
+32 GB,LPDDR5X (Onboard),8400 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339660
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5200 MHz,16 GB,1 TB SSD M.2 PCIe,329851
+16 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe,334797
+16 GB,LPDDR5X (Onboard),6400 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",335181
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5600 MHz,32 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",340488
+16 GB,DDR5 (1 khe RAM),5200 MHz,32 GB,512 GB SSD NVMe PCIe,339689
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,32 GB,"['512 GB SSD NVMe M.2 PCIe Gen 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242))', 'Hỗ trợ thêm 1 khe cắm SSD NVMe M.2 PCIe Gen 4.0 mở rộng (2280)']",342495
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,96 GB,"['2 TB SSD NVMe PCIe', 'Hỗ trợ thêm 1 khe SSD NVMe PCIe Gen 5']",325575
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,32 GB,"['1 TB SSD NVMe M.2 PCIe Gen 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242))', 'Hỗ trợ thêm 1 khe cắm SSD NVMe M.2 PCIe Gen 4.0 mở rộng (2280)']",342497
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,32 GB,1 TB SSD NVMe PCIe Gen 4 x 4,341566
+32 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,1 TB SSD NVMe PCIe Gen 4,332350
+32 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,1 TB SSD NVMe PCIe Gen 4,332352
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,16 GB,1 TB SSD NVMe M.2 PCIe,341565
+64 GB,DDR5 (1 khe 32 GB + 1 khe 32 GB),6400 MHz,96 GB,"['2 x SSD 2 TB NVMe PCIe Gen 4x4', '2 TB SSD NVMe PCIe Gen 5x4', 'Hỗ trợ thêm 1 khe SSD NVMe PCIe Gen 5']",335010
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,32 GB,1 TB SSD M.2 PCIe,341567
+64 GB,DDR5 (1 khe 32 GB + 1 khe 32 GB),6400 MHz,96 GB,"['2 TB SSD NVMe PCIe Gen 5x4', '2 TB SSD NVMe PCIe Gen 4x4']",335112
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,96 GB,2 TB SSD NVMe PCIe Gen 4x4,335113
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),2660 MHz,16 GB,512 GB SSD NVMe M.2 PCIe (2230/2280),342756
+16 GB,Hãng không công bố,Hãng không công bố,Không hỗ trợ nâng cấp,256 GB SSD,342024
+8 GB,Hãng không công bố,Hãng không công bố,Không hỗ trợ nâng cấp,256 GB SSD,231244
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,64 GB,"['512 GB SSD NVMe M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 4 TB)', 'Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng']",342942
+16 GB,DDR4 (1 khe 16 GB + 1 khe rời),3200 MHz,64 GB,"512 GB SSD M.2 NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",342755
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5600 MHz,32 GB,"['Hỗ trợ thêm 1 khe cắm SSD NVMe M.2 PCIe Gen 4.0 mở rộng (nâng cấp tối đa 1 TB (2242))', '512 GB SSD NVMe M.2 PCIe Gen 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242))']",342507
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,16 GB,1 TB SSD NVMe M.2 PCIe,341621
+16 GB,DDR5 (1 khe 16 GB + 1 khe rời),5600 MHz,32 GB,"['Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB (2280))', '1 TB SSD M.2 NVMe PCIe Gen 4 x 4 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242) / 1 TB (2280))']",342519
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,64 GB,"512 GB SSD PCIe M.2 (2280) (Có thể tháo rời, lắp thanh khác tối đa 4 TB (2280))",342941
+4 GB,LPDDR4X (Onboard),2933 MHz,Không hỗ trợ nâng cấp,eMMC 32 GB,328599
+36 GB,Hãng không công bố,Hãng không công bố,Hãng không công bố,1 TB SSD,332451
+24 GB,Hãng không công bố,Hãng không công bố,Không hỗ trợ nâng cấp,256 GB SSD,335366
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,16 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",341622
+16 GB,DDR4 (8 GB onboard + 1 khe 8 GB),3200 MHz,24 GB,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",305009
+16 GB,LPDDR5 (Onboard),7467 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",331523
+24 GB,Hãng không công bố,Hãng không công bố,Hãng không công bố,1 TB SSD,331567
+32 GB,Hãng không công bố,Hãng không công bố,Không hỗ trợ nâng cấp,256 GB SSD,335369
+32 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",339558
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,96 GB,512 GB SSD NVMe PCIe Gen 4.0,341613
+4 GB,LPDDR4X (Onboard),2933 MHz,Không hỗ trợ nâng cấp,eMMC 32 GB,328598
+16 GB,LPDDR5 (Onboard),7467 MHz,Không hỗ trợ nâng cấp,"512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",331522
+16 GB,Hãng không công bố,Hãng không công bố,Hãng không công bố,512 GB SSD,332448
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),5600 MHz,64 GB,"1 TB SSD NVMe PCIe Gen 4 x 4 (Có thể tháo ra, lắp thanh khác nâng cấp tối đa 4 TB)",334694
+32 GB,LPDDR5 (Onboard),8448 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",337040
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),4800 MHz,64 GB,"1 TB SSD NVMe PCIe Gen 4 x 4 (Có thể tháo ra, lắp thanh khác nâng cấp tối đa 4 TB)",337844
+16 GB,LPDDR5X (Onboard),7500 MHz,Không hỗ trợ nâng cấp,512 GB SSD NVMe PCIe Gen 4.0,339235
+24 GB,LPDDR5X (Onboard),8000 MHz,Không hỗ trợ nâng cấp,1 TB SSD NVMe PCIe Gen 4,339236
+32 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",341269
+32 GB,LPDDR5X (Onboard),8533 MHz,32 GB,1 TB SSD NVMe M.2 PCIe Gen 4.0x4 (2242),342505
+8 GB,DDR5 (1 khe 8 GB + 1 khe trống),4800 MHz,32 GB,"['512 GB SSD NVMe PCIe', 'Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng']",284343
+16 GB,LPDDR5X (Onboard),7467 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",332274
+16 GB,DDR5 (1 khe 8 GB + 1 khe 8 GB),6400 MHz,96 GB,"['1 TB SSD NVMe PCIe Gen 4', 'Hỗ trợ thêm 1 khe SSD NVMe PCIe Gen 5']",335015
+192 GB,DDR5 (mỗi khe 48 GB),4000 MHz,192 GB,3 x 2 TB SSD M.2 NVMe,335963
+64 GB,DDR5 (mỗi khe 16 GB),4000 MHz,192 GB,3 x 1 TB SSD M.2 NVMe,335964
+32 GB,LPDDR5X (Onboard),8533 MHz,Không hỗ trợ nâng cấp,"1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",341268
+32 GB,LPDDR5 (1 khe onboard),8533 MHz,32 GB,2 TB SSD NVMe PCIe Gen 4x4,341572
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,96 GB,2 TB SSD NVMe PCIe Gen 4x4,341573
+32 GB,LPDDR5X (Onboard),8533 MHz,32 GB,1 TB SSD NVMe M.2 PCIe Gen 4.0x4 (2242),342504
+32 GB,LPDDR5X (Onboard),8400 MHz,32 GB,"1 TB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB M.2 2280 PCIe Gen 4x4 NVMe)",342508
+24 GB,DDR5 (1 khe 12 GB + 1 khe 12 GB),4800 MHz,32 GB,"1 TB SSD M.2 NVMe PCIe Gen 4 x 4 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242) / 1 TB (2280))",342517
+24 GB,DDR5 (1 khe 24 GB + 1 khe trống),5600 MHz,32 GB,"1 TB SSD M.2 NVMe PCIe Gen 4 x 4 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242) / 1 TB (2280))",342523
+32 GB,DDR5 (1 khe 16 GB + 1 khe 16 GB),5600 MHz,32 GB,"['Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB (2280))', '512 GB SSD PCIe M.2 (2280) (Có thể tháo rời, lắp thanh khác tối đa 1 TB (2280))']",342721
+16 GB,DDR4 (1 khe 8 GB + 1 khe 8 GB),3200 MHz,16 GB,"512 GB SSD PCIe M.2 (2280) (Có thể tháo rời, lắp thanh khác tối đa 1 TB (2280))",342725
