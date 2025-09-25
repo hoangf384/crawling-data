@@ -1,0 +1,406 @@
+pid,Brand,Model,Số nhân,Số luồng,Tốc độ CPU,NPU,Hiệu năng xử lý AI (TOPS)
+327098,AMD,7430U,6,12,2.30 GHz (Lên đến 4.30 GHz khi tải nặng),,
+311178,AMD,7520U,4,8,2.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+334442,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+335362,Apple,M4,10,Hãng không công bố,120 GB/s memory bandwidth,,
+337470,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+336967,Intel,12450H,8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+321192,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+338207,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+334792,Intel,1315U,6,8,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),,
+334450,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+333427,AMD,6600H,6,12,3.30 GHz (Lên đến 4.50 GHz khi tải nặng),,
+326124,Intel,12450H,8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+289472,Apple,M2,8,Hãng không công bố,100GB/s,,
+334803,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+335556,Intel,12450HX,8,12,Lên đến 4.40 GHz khi tải nặng,,
+338323,Intel,120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+326050,Intel,1315U,6,8,Lên đến 4.50 GHz khi tải nặng,,
+334996,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+331362,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+325500,AMD,7520U,4,8,2.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+340564,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+338311,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+323920,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+334997,Intel,N305,8,8,1.80 GHz (Lên đến 3.80 GHz khi tải nặng),,
+335372,Apple,M4,10,Hãng không công bố,120 GB/s memory bandwidth,,
+326279,Intel,12450H,8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+310449,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+340486,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+334446,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+339679,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+333430,AMD,6600H,6,12,3.30 GHz (Lên đến 4.50 GHz khi tải nặng),,
+328235,Intel,12500H,12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+321467,AMD,7535HS,6,12,3.30 GHz (Lên đến 4.55 GHz khi tải nặng),,
+337233,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+328237,Intel,12500H,12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+337420,AMD,7530U,6,12,2.00 GHz (Lên đến 4.50 GHz khi tải nặng),,
+334999,AMD,5700U,8,16,1.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+338204,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+329786,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+341563,Intel,210H,8,12,1.60 GHz (Lên đến 4.80 GHz khi tải nặng),,
+326830,Intel,120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+339683,Intel,120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+333886,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+332365,Intel,12450HX,8,12,Lên đến 4.40 GHz khi tải nặng,,
+333104,Intel,1255U,10,12,1.70 GHz (Lên đến 4.70 GHz khi tải nặng),,
+311176,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+341612,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+343120,AMD,7730U,8,16,2.00 GHz (Lên đến 4.50 GHz khi tải nặng),,
+335554,Intel,13450HX,10,16,2.40 GHz (Lên đến 4.60 GHz khi tải nặng),,
+325247,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+325691,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+328238,Intel,12500H,12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+338206,Intel,1315U,6,8,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),,
+327872,AMD,7435HS,8,16,3.10 GHz (Lên đến 4.50 GHz khi tải nặng),,
+337476,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+326049,AMD,7530U,6,12,2.00 GHz (Lên đến 4.50 GHz khi tải nặng),,
+331564,Apple,M4,10,Hãng không công bố,120 GB/s memory bandwidth,,
+326122,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+343121,AMD,7430U,6,12,2.30 GHz (Lên đến 4.30 GHz khi tải nặng),,
+339687,Intel,210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+338278,AMD,7435HS,8,16,3.10 GHz (Lên đến 4.50 GHz khi tải nặng),,
+338324,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+337474,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+311177,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+322072,Intel,12450HX,8,12,Lên đến 4.40 GHz khi tải nặng,,
+328906,Intel,1215U,6,8,1.2GHz,,
+310447,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+343122,Intel,13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+339681,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+340560,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+341270,Intel,120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+330162,AMD,7435HS,8,16,3.10 GHz (Lên đến 4.50 GHz khi tải nặng),,
+338318,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+318163,Intel,12450H,8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+339857,AMD,7235HS,4,8,3.20 GHz (Lên đến 4.20 GHz khi tải nặng),,
+335553,Intel,13450HX,10,16,2.40 GHz (Lên đến 4.60 GHz khi tải nặng),,
+328814,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+327707,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+331566,Apple,M4,10,Hãng không công bố,120 GB/s memory bandwidth,,
+341607,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+327050,Intel,12450HX,8,12,Lên đến 4.40 GHz khi tải nặng,,
+340559,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+336036,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+325697,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+334998,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+328949,Intel,13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+337042,Intel,155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+326831,Intel,150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+327097,Intel,125H,14,18,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+335555,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+333103,Intel,1255U,10,12,1.70 GHz (Lên đến 4.70 GHz khi tải nặng),,
+341602,Intel,125H,14,18,3.60 GHz (Lên đến 4.50 GHz khi tải nặng),,
+330932,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+334689,Intel,13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+338316,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+341618,Intel,120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+338322,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+333102,Intel,1255U,10,12,1.70 GHz (Lên đến 4.70 GHz khi tải nặng),,
+334794,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+339202,Intel,1305U,5,6,1.6GHz,,
+322222,AMD,5700U,8,16,1.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+340479,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+334449,AMD,8845HS,8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+339587,AMD,350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+331568,Apple,M4 pro,12,Hãng không công bố,273 GB/s memory bandwidth,,
+326861,Intel,12450H,8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+337044,Intel,125U,12,14,1.30 GHz (Lên đến 4.30 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+339581,AMD,340,6,12,2.00 GHz (Lên đến 4.80 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+337472,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+340491,AMD,7520U,4,8,2.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+322270,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+338320,Intel,225H,14,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+313177,Intel,12450H,8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+340484,AMD,7530U,6,12,2.00 GHz (Lên đến 4.50 GHz khi tải nặng),,
+314630,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+337475,Intel,1255U,10,12,1.70 GHz (Lên đến 4.70 GHz khi tải nặng),,
+340004,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+340558,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+334795,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+327896,AMD,7435HS,8,16,3.10 GHz (Lên đến 4.50 GHz khi tải nặng),,
+340478,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+337473,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+333421,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+332578,Intel,12450H,8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+340481,Intel,150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+322073,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+340487,Intel,14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+332450,Apple,M4 pro,12,Hãng không công bố,273 GB/s memory bandwidth,,
+308697,Intel,12450H,8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+317704,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+325479,Intel,125H,14,18,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+333105,Intel,1255U,10,12,1.70 GHz (Lên đến 4.70 GHz khi tải nặng),,
+337469,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+337041,Intel,155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 11 TOPS
+333423,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+341604,Intel,12650H,10,16,3.50 GHz (Lên đến 4.70 GHz khi tải nặng),,
+313974,AMD,7840HS,8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Max 10 TOPS
+339656,Intel,225H,14,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+332370,Intel,155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+314849,AMD,7535HS,6,12,3.30 GHz (Lên đến 4.55 GHz khi tải nặng),,
+334440,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+342469,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+327977,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+330578,AMD,7435HS,8,16,3.10 GHz (Lên đến 4.50 GHz khi tải nặng),,
+337043,Intel,125U,12,14,1.30 GHz (Lên đến 4.30 GHz khi tải nặng),Intel AI Boost,Lên đến 11 TOPS
+319657,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+325953,Intel,150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+331506,Intel,125U,12,14,1.30 GHz (Lên đến 4.30 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+333424,Intel,125H,14,18,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,
+326641,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+339652,Intel,255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+322100,Intel,14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+329853,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+327898,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+341568,Intel,1255U,10,12,3.50 GHz (Lên đến 4.70 GHz khi tải nặng),,
+310839,Intel,13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+340483,Intel,120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+338312,Intel,120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+339201,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+325699,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+339653,Intel,210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+329736,Intel,120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+339265,AMD,8840HS,8,16,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+327710,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+340565,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+340562,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+325477,Intel,12500H,12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+342526,Intel,13650HX,14,20,2.60 GHz (Lên đến 4.90 GHz khi tải nặng),,
+323325,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+329852,Intel,150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+333425,Intel,155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,
+339655,Intel,255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+302209,Intel,1260P,12,16,2.10 GHz (Lên đến 4.70 GHz khi tải nặng),,
+338000,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+309375,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+335170,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+325244,Intel,150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+328443,AMD,7640HS,6,12,4.30 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Max 10 TOPS
+338279,AMD,7735HS,8,16,3.20 GHz (Lên đến 4.75 GHz khi tải nặng),,
+304543,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+332368,Intel,155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 11 TOPS
+326637,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+329429,Intel,13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+328474,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+328483,Intel,12450HX,8,12,Lên đến 4.40 GHz khi tải nặng,,
+316941,Intel,12650H,10,16,2.30 GHz (Lên đến 4.70 GHz khi tải nặng),,
+317712,Intel,1215U,6,8,1.2GHz,,
+340561,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+338317,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+333094,Intel,13650HX,14,20,2.60 GHz (Lên đến 4.90 GHz khi tải nặng),,
+323335,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+272282,Intel,12500H,12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+313973,Intel,13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+321436,AMD,5700U,8,16,1.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+329112,Intel,120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+336968,Intel,155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+339616,Intel,255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+329787,Intel,155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+337471,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+336031,Intel,285H,16,16,2.90 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+335171,Intel,225H,14,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+333872,AMD,8640U,6,12,3.50 GHz (Lên đến 4.90 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+326876,Intel,1215U,6,8,1.2GHz,,
+337843,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+327506,AMD,7430U,6,12,2.30 GHz (Lên đến 4.30 GHz khi tải nặng),,
+328815,AMD,8640HS,6,12,3.50 GHz (Lên đến 4.90 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+333197,Intel,258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+339952,Intel,255HX,20,20,2.40 GHz (Lên đến 5.20 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+313627,AMD,5700U,8,16,1.80 GHz (Lên đến 4.30 GHz khi tải nặng),,
+339688,Intel,210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+331508,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+333107,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+339684,Intel,14650HX,16,24,2.20 GHz (Lên đến 5.20 GHz khi tải nặng),,
+338208,AMD,8840HS,8,16,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+327406,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+327507,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+341626,Intel,13420H,8,12,3.4 GHz (Lên đến 4.60 GHz khi tải nặng),,
+341603,AMD,7535HS,6,12,3.30 GHz (Lên đến 4.55 GHz khi tải nặng),,
+328130,Intel,155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+339954,Intel,120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+326558,Intel,155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 11 TOPS
+337842,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+338315,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+328951,Intel,12500H,12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+327409,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+328950,Intel,13900H,14,20,2.6GHz,,
+327981,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+341267,Intel,225U,12,14,1.50 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,
+318354,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+325586,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+338280,Intel,258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+335549,AMD,7735HS,8,16,3.20 GHz (Lên đến 4.75 GHz khi tải nặng),,
+325051,Intel,155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+339686,Intel,210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+328946,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+331526,AMD,8640HS,6,12,3.50 GHz (Lên đến 4.90 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+302533,Intel,1240P,12,16,1.70 GHz (Lên đến 4.40 GHz khi tải nặng),,
+325480,Intel,13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+328473,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+328947,Intel,150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+327508,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+342514,Intel,210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+325588,Intel,155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+329867,Intel,125U,12,14,1.30 GHz (Lên đến 4.30 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+322098,AMD,8845HS,8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+339953,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+339211,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+329858,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+331527,Intel,155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+309565,Intel,1240P,12,16,1.70 GHz (Lên đến 4.40 GHz khi tải nặng),,
+333098,Intel,226V,8,8,2.10 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Lên đến 40 TOPS
+327901,Intel,13900HX,24,32,3.90 GHz (Lên đến 5.40 GHz khi tải nặng),,
+327900,Intel,13650HX,14,20,2.60 GHz (Lên đến 4.90 GHz khi tải nặng),,
+326194,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+339661,Intel,228V,8,8,2.10 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Lên đến 40 TOPS
+313332,Intel,12700H,14,20,2.30 GHz (Lên đến 4.70 GHz khi tải nặng),,
+339647,Intel,255HX,20,20,2.40 GHz (Lên đến 5.20 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+332397,Intel,226V,8,8,2.10 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Lên đến 40 TOPS
+328945,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+312414,Intel,1215U,6,8,1.2GHz,,
+327899,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+342501,Intel,210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+333873,AMD,8840HS,8,16,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+322003,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+335550,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+340006,AMD,260,8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+335832,Intel,258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+339680,Intel,120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+341266,Intel,225U,12,14,1.50 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,
+334800,Snapdragon,X1-26-100,8,Hãng không công bố,Lên đến 3.00 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+339212,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+339690,Intel,240H,10,16,2.50 GHz (Lên đến 5.20 GHz khi tải nặng),,
+337237,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+322959,Intel,155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+334796,Intel,225H,14,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+341623,AMD,7445HS,6,12,3.10 GHz (Lên đến 4.70 GHz khi tải nặng),,
+326148,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+333099,Intel,258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+337242,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+326280,AMD,8845HS,8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+332579,AMD,8645HS,6,12,4.30 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+341750,AMD,350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+338321,Intel,255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+335172,AMD,350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+326059,AMD,7640HS,6,12,4.30 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Max 10 TOPS
+329337,Intel,12700H,14,20,2.30 GHz (Lên đến 4.70 GHz khi tải nặng),,
+329789,Intel,155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+323585,AMD,7840HS,8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Max 10 TOPS
+341608,AMD,7535HS,6,12,3.30 GHz (Lên đến 4.55 GHz khi tải nặng),,
+317709,Intel,12500H,12,16,2.50 GHz (Lên đến 4.50 GHz khi tải nặng),,
+334799,AMD,350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+326824,Intel,155U,12,14,1.70 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+335020,Intel,258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+339659,Intel,255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+341751,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+339685,Intel,14650HX,16,24,2.20 GHz (Lên đến 5.20 GHz khi tải nặng),,
+311145,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+315892,AMD,7735HS,8,16,3.20 GHz (Lên đến 4.75 GHz khi tải nặng),,
+327408,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+334444,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+339648,Intel,255HX,20,20,2.40 GHz (Lên đến 5.20 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+341611,Intel,14450HX,10,16,2.40 GHz (Lên đến 4.80 GHz khi tải nặng),,
+321468,Intel,155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+322099,Intel,155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+330165,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+334798,Intel,285H,16,16,2.90 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+315911,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+341752,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+337241,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+339658,Intel,255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+320431,Intel,125H,14,18,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+327974,Intel,12700H,14,20,2.30 GHz (Lên đến 4.70 GHz khi tải nặng),,
+325002,Intel,13700H,14,20,Lên đến 5.00 GHz khi tải nặng,,
+339662,Intel,258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+337841,Intel,275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+342752,Intel,210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+326864,Intel,150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+334802,AMD,350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+335835,Snapdragon,X1P-42-100,8,Hãng không công bố,Lên đến 3.40 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+339234,Snapdragon,X1-26-100,8,Hãng không công bố,Lên đến 3.00 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+337236,Intel,258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+339951,AMD,340,6,12,2.00 GHz (Lên đến 4.80 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+327509,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+334805,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+322269,AMD,7535HS,6,12,3.30 GHz (Lên đến 4.55 GHz khi tải nặng),,
+335551,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+338313,Intel,135U,12,14,1.6GHz,Intel AI Boost,Hãng không công bố
+342758,Intel,210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+330579,Intel,258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+334806,Intel,225H,14,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+341609,Intel,14650HX,16,24,2.20 GHz (Lên đến 5.20 GHz khi tải nặng),,
+339541,Intel,275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+325242,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+311117,Intel,13500H,12,16,2.60 GHz (Lên đến 4.70 GHz khi tải nặng),,
+339542,Intel,275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+339682,Snapdragon,X1P-64-100,10,Hãng không công bố,Lên đến 3.40 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+327982,Intel,1235U,10,12,1.30 GHz (Lên đến 4.40 GHz khi tải nặng),,
+328239,Intel,125H,14,18,1.20 GHz (Lên đến 4.50 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+341610,Intel,14650HX,16,24,2.20 GHz (Lên đến 5.20 GHz khi tải nặng),,
+320434,Intel,13620H,10,16,2.40 GHz (Lên đến 4.90 GHz khi tải nặng),,
+339650,Intel,275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+340563,Snapdragon,X1P-64-100,10,Hãng không công bố,Lên đến 3.40 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+341564,Intel,240H,10,16,2.50 GHz (Lên đến 5.20 GHz khi tải nặng),,
+309243,Intel,1335U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+325583,Intel,14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+339660,Intel,225H,14,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+329851,Intel,120U,10,12,1.40 GHz (Lên đến 5.00 GHz khi tải nặng),,
+334797,Intel,255H,16,16,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+335181,Intel,165U,12,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+340488,Intel,14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+339689,Intel,210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+342495,Intel,210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+325575,Intel,14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+342497,Intel,210H,8,12,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),,
+341566,Intel,240H,10,16,1.80 GHz (Lên đến 5.20 GHz khi tải nặng),,
+332350,Intel,288V,8,8,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Lên đến 48 TOPS
+332352,Intel,258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+341565,Intel,240H,10,16,1.80 GHz (Lên đến 5.20 GHz khi tải nặng),,
+335010,Intel,285HX,24,24,2.8GHz,Intel AI Boost,Max 13 TOPS
+341567,Intel,270H,14,20,2.70 GHz (Lên đến 5.80 GHz khi tải nặng),,
+335112,Intel,285HX,24,24,2.8GHz,Intel AI Boost,Max 13 TOPS
+335113,Intel,275HX,24,24,2.70 GHz (Lên đến 5.40 GHz khi tải nặng),Intel AI Boost,Max 13 TOPS
+342756,Intel,1334U,10,12,3.4 GHz (Lên đến 4.60 GHz khi tải nặng),,
+342024,Apple,M4,10,Hãng không công bố,120 GB/s memory bandwidth,,
+231244,Apple,M1,8,Hãng không công bố,Hãng không công bố,,
+342942,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,
+342755,AMD,7530U,6,12,2.00 GHz (Lên đến 4.50 GHz khi tải nặng),,
+342507,AMD,250,8,16,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+341621,Intel,150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+342519,Intel,14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+342941,Intel,1334U,10,12,1.30 GHz (Lên đến 4.60 GHz khi tải nặng),,
+328599,Intel,N4500,2,2,1.1GHz,,
+332451,Apple,M4 max,14,Hãng không công bố,410 GB/s memory bandwidth,,
+335366,Apple,M4,10,Hãng không công bố,120 GB/s memory bandwidth,,
+341622,Intel,150U,10,12,1.80 GHz (Lên đến 5.40 GHz khi tải nặng),,
+305009,Intel,1355U,10,12,1.70 GHz (Lên đến 5.00 GHz khi tải nặng),,
+331523,Intel,165U,12,14,1.70 GHz (Lên đến 4.90 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+331567,Apple,M4,10,Hãng không công bố,120 GB/s memory bandwidth,,
+335369,Apple,M4,10,Hãng không công bố,120 GB/s memory bandwidth,,
+339558,AMD,HX PRO 375,12,24,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Max 55 TOPS
+341613,Intel,14650HX,16,24,2.20 GHz (Lên đến 5.20 GHz khi tải nặng),,
+328598,Intel,N4500,2,2,1.1GHz,,
+331522,Intel,135U,12,14,1.6GHz,Intel AI Boost,Hãng không công bố
+332448,Apple,M4,10,Hãng không công bố,120 GB/s memory bandwidth,,
+334694,Intel,14650HX,16,24,2.20 GHz (Lên đến 5.20 GHz khi tải nặng),,
+337040,Snapdragon,X1E-78-100,12,12,Lên đến 3.40 GHz khi tải nặng,Qualcomm Hexagon,Lên đến 45 TOPS
+337844,Intel,13650HX,14,20,2.60 GHz (Lên đến 4.90 GHz khi tải nặng),,
+339235,AMD,350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+339236,AMD,350,8,16,2.00 GHz (Lên đến 5.00 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+341269,Intel,258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+342505,Intel,258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+284343,Intel,12450H,8,12,2.00 GHz (Lên đến 4.40 GHz khi tải nặng),,
+332274,Intel,155H,16,22,1.40 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Hãng không công bố
+335015,,,,,,,
+335963,,,,,,,
+335964,,,,,,,
+341268,Intel,288V,8,8,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),Intel AI Boost,Lên đến 40 TOPS
+341572,Intel,288V,8,8,3.30 GHz (Lên đến 5.10 GHz khi tải nặng),,
+341573,AMD,HX 370,12,24,2.00 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 50 TOPS
+342504,Intel,258V,8,8,2.20 GHz (Lên đến 4.80 GHz khi tải nặng),Intel AI Boost,Lên đến 47 TOPS
+342508,Intel,255U,12,14,2 GHz (Lên đến 5.20 GHz khi tải nặng),Intel AI Boost,Lên đến 12 TOPS
+342517,Intel,14700HX,20,28,2.10 GHz (Lên đến 5.50 GHz khi tải nặng),,
+342523,AMD,260,8,16,3.8 GHz (Lên đến 5.10 GHz khi tải nặng),AMD XDNA,Lên đến 16 TOPS
+342721,Intel,14900HX,24,32,2.20 GHz (Lên đến 5.80 GHz khi tải nặng),,
+342725,Intel,13420H,8,12,2.10 GHz (Lên đến 4.60 GHz khi tải nặng),,

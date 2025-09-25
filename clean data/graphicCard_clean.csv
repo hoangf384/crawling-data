@@ -1,0 +1,406 @@
+pid,Số nhân GPU,Công suất đồ hoạ - TGP,Hiệu năng xử lý AI (TOPS),Loại card,Tên card
+327098,,,,Card tích hợp,AMD Radeon Graphics
+311178,,,,Card tích hợp,AMD Radeon Graphics
+334442,,,,Card tích hợp,Intel UHD Graphics
+335362,8,,,Card tích hợp,Apple M Series - M4
+337470,,,,Card tích hợp,Intel Iris Xe Graphics
+336967,,,,Card tích hợp,Intel UHD Graphics
+321192,,,,Card tích hợp,Intel Iris Xe Graphics
+338207,,,,Card tích hợp,Intel UHD Graphics
+334792,,,,Card tích hợp,Intel UHD Graphics
+334450,,,,Card tích hợp,Intel UHD Graphics
+333427,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+326124,,,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+289472,8,,,Card tích hợp,Apple M Series - M2
+334803,,,,Card tích hợp,Intel Iris Xe Graphics
+335556,,65 W,Lên đến 142 TOPS,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+338323,,,,Card tích hợp,Intel Graphics
+326050,,,,Card tích hợp,Intel UHD Graphics
+334996,,,,Card tích hợp,Intel UHD Graphics
+331362,,,,Card tích hợp,Intel Iris Xe Graphics
+325500,,,,Card tích hợp,AMD Radeon 610M Graphics
+340564,,,,Card tích hợp,Intel UHD Graphics
+338311,,,,Card tích hợp,Intel Iris Xe Graphics
+323920,,,,Card tích hợp,Intel Iris Xe Graphics
+334997,,,,Card tích hợp,Intel UHD Graphics
+335372,10,,,Card tích hợp,Apple M Series - M4
+326279,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+310449,,,,Card tích hợp,Intel Iris Xe Graphics
+340486,,,,Card tích hợp,Intel Iris Xe Graphics
+334446,,,,Card tích hợp,Intel UHD Graphics
+339679,,,,Card tích hợp,Intel Iris Xe Graphics
+333430,,,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+328235,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+321467,,45 W,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+337233,,,,Card tích hợp,Intel UHD Graphics
+328237,,,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+337420,,,,Card tích hợp,AMD Radeon Graphics
+334999,,,,Card tích hợp,AMD Radeon Graphics
+338204,,70 W,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+329786,,,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+341563,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+326830,,,,Card tích hợp,Intel Graphics
+339683,,,,Card tích hợp,Intel Graphics
+333886,,,,Card tích hợp,Intel Iris Xe Graphics
+332365,,65 W,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+333104,,,,Card tích hợp,Intel Iris Xe Graphics
+311176,,,,Card tích hợp,Intel Iris Xe Graphics
+341612,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+343120,,,,Card tích hợp,AMD Radeon Graphics
+335554,,95 W,Lên đến 142 TOPS,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+325247,,,,Card tích hợp,Intel Iris Xe Graphics
+325691,,,,Card tích hợp,Intel Iris Xe Graphics
+328238,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+338206,,,,Card tích hợp,Intel UHD Graphics
+327872,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+337476,,,,Card tích hợp,Intel Iris Xe Graphics
+326049,,,,Card tích hợp,AMD Radeon Graphics
+331564,10,,,Card tích hợp,Apple M Series - M4
+326122,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+343121,,,,Card tích hợp,AMD Radeon Graphics
+339687,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+338278,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+338324,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+337474,,,,Card tích hợp,Intel UHD Graphics
+311177,,,,Card tích hợp,Intel Iris Xe Graphics
+322072,,95 W,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+328906,,,,Card tích hợp,Intel UHD Graphics
+310447,,,,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+343122,,,,Card tích hợp,Intel UHD Graphics
+339681,,,,Card tích hợp,Intel Iris Xe Graphics
+340560,,,,Card tích hợp,Intel Iris Xe Graphics
+341270,,,,Card tích hợp,Intel Iris Xe Graphics
+330162,,,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+338318,,,,Card tích hợp,Intel UHD Graphics
+318163,,30 W - 45 W,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+339857,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+335553,,95 W,Lên đến 142 TOPS,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+328814,,,,Card tích hợp,Intel UHD Graphics
+327707,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+331566,10,,,Card tích hợp,Apple M Series - M4
+341607,,35 W - 100 W,Lên đến 440 TOPS,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+327050,,95 W,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+340559,,,,Card tích hợp,Intel Iris Xe Graphics
+336036,,,,Card tích hợp,Intel Iris Xe Graphics
+325697,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+334998,,,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+328949,,,,Card tích hợp,Intel Iris Xe Graphics
+337042,,,,Card tích hợp,Intel Graphics
+326831,,,,Card tích hợp,Intel Graphics
+327097,,,,Card tích hợp,Intel Graphics
+335555,,,,Card tích hợp,Intel UHD Graphics
+333103,,,,Card tích hợp,Intel Iris Xe Graphics
+341602,,,,Card tích hợp,Intel Arc Graphics
+330932,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+334689,,75 W,Lên đến 194 TOPS,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+338316,,,,Card tích hợp,Intel Iris Xe Graphics
+341618,,,,Card tích hợp,Intel Iris Xe Graphics
+338322,,,,Card tích hợp,Intel UHD Graphics
+333102,,,,Card tích hợp,Intel Iris Xe Graphics
+334794,,,,Card tích hợp,Intel UHD Graphics
+339202,,,,Card tích hợp,Intel UHD Graphics
+322222,,,,Card tích hợp,AMD Radeon Graphics
+340479,,,,Card tích hợp,Intel Iris Xe Graphics
+334449,,,,Card tích hợp,AMD Radeon 780M
+339587,,,,Card tích hợp,AMD Radeon 860M
+331568,16,,,Card tích hợp,Apple M Series - M4 pro
+326861,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+337044,,,,Card tích hợp,Intel Graphics
+339581,,,,Card tích hợp,AMD Radeon 840M
+337472,,,,Card tích hợp,Intel Iris Xe Graphics
+340491,,,,Card tích hợp,AMD Radeon Graphics
+322270,,,,Card tích hợp,Intel Iris Xe Graphics
+338320,,,,Card tích hợp,Intel UHD Graphics
+313177,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+340484,,,,Card tích hợp,AMD Radeon Graphics
+314630,,,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+337475,,,,Card tích hợp,Intel Iris Xe Graphics
+340004,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+340558,,,,Card tích hợp,Intel Iris Xe Graphics
+334795,,,,Card tích hợp,Intel UHD Graphics
+327896,,,,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+340478,,,,Card tích hợp,Intel UHD Graphics
+337473,,,,Card tích hợp,Intel UHD Graphics
+333421,,,,Card tích hợp,Intel Iris Xe Graphics eligible
+332578,,,,Card tích hợp,Intel UHD Graphics
+340481,,,,Card tích hợp,Intel Graphics
+322073,,,,Card tích hợp,Intel UHD Graphics
+340487,,115 W,Lên đến 440 TOPS,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+332450,16,,,Card tích hợp,Apple M Series - M4 pro
+308697,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+317704,,,,Card tích hợp,Intel Iris Xe Graphics
+325479,,,,Card tích hợp,Intel Arc Graphics
+333105,,,,Card tích hợp,Intel Iris Xe Graphics
+337469,,,,Card tích hợp,Intel Iris Xe Graphics
+337041,,,,Card tích hợp,Intel Graphics
+333423,,,,Card tích hợp,Intel Iris Xe Graphics eligible
+341604,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+313974,,70 W,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+339656,,,,Card tích hợp,Intel Arc Graphics
+332370,,,,Card tích hợp,Intel Graphics
+314849,,,,Card rời,"AMD Radeon RX 6550M, 4 GB"
+334440,,,,Card tích hợp,Intel UHD Graphics
+342469,,,,Card tích hợp,Intel Iris Xe Graphics
+327977,,,,Card tích hợp,Intel Iris Xe Graphics
+330578,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+337043,,,,Card tích hợp,Intel Graphics
+319657,,,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+325953,,,,Card tích hợp,Intel Graphics
+331506,,,,Card tích hợp,Intel Graphics
+333424,,,,Card tích hợp,Intel Arc Graphics
+326641,,,,Card tích hợp,Intel Iris Xe Graphics
+339652,,,,Card tích hợp,Intel Arc 140T
+322100,,,,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+329853,,,,Card tích hợp,Intel Iris Xe Graphics
+327898,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+341568,,,,Card tích hợp,Intel Iris Xe Graphics
+310839,,,,Card tích hợp,Intel Iris Xe Graphics
+340483,,,,Card tích hợp,Intel Graphics
+338312,,,,Card tích hợp,Intel Iris Xe Graphics
+339201,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+325699,,,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+339653,,,,Card tích hợp,Intel Graphics
+329736,,,,Card tích hợp,Intel Graphics
+339265,,,,Card tích hợp,AMD Radeon Graphics
+327710,,,,Card tích hợp,Intel Iris Xe Graphics
+340565,,,,Card tích hợp,Intel UHD Graphics
+340562,,,,Card tích hợp,Intel UHD Graphics
+325477,,,,Card tích hợp,Intel Iris Xe Graphics
+342526,,105 W,Lên đến 194 TOPS,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+323325,,,,Card tích hợp,Intel UHD Graphics
+329852,,,,Card tích hợp,Intel Graphics
+333425,,,,Card tích hợp,Intel Arc Graphics
+339655,,,,Card tích hợp,Intel Arc 140T
+302209,,,,Card tích hợp,Intel Iris Xe Graphics
+338000,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+309375,,,,Card tích hợp,Intel Iris Xe Graphics
+335170,,,,Card tích hợp,Intel Iris Xe Graphics
+325244,,,,Card tích hợp,Intel Graphics
+328443,,75 W,Lên đến 80 TOPS,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+338279,,,,Card tích hợp,AMD Radeon 680M Graphics
+304543,,,,Card tích hợp,Intel UHD Graphics
+332368,,,,Card tích hợp,Intel Graphics
+326637,,,,Card tích hợp,Intel UHD Graphics
+329429,,70 W,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+328474,,,,Card tích hợp,Intel Iris Xe Graphics
+328483,,65 W,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+316941,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+317712,,,,Card tích hợp,Intel UHD Graphics
+340561,,,,Card tích hợp,Intel UHD Graphics
+338317,,,,Card tích hợp,Intel Iris Xe Graphics
+333094,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+323335,,,,Card tích hợp,Intel UHD Graphics
+272282,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+313973,,70 W,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+321436,,,,Card tích hợp,AMD Radeon Graphics
+329112,,,,Card tích hợp,Intel Graphics
+336968,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+339616,,,,Card tích hợp,Intel Arc Graphics
+329787,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+337471,,,,Card tích hợp,Intel Iris Xe Graphics
+336031,,,,Card tích hợp,Intel Arc Graphics
+335171,,,,Card tích hợp,Intel Graphics
+333872,,,,Card tích hợp,AMD Radeon Graphics
+326876,,,,Card tích hợp,Intel UHD Graphics
+337843,,75 W,Lên đến 194 TOPS,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+327506,,,,Card tích hợp,AMD Radeon Graphics
+328815,,,,Card tích hợp,AMD Radeon Graphics
+333197,,,,Card tích hợp,Intel Arc 140V
+339952,,,,Card rời,"NVIDIA GeForce RTX 5070Ti, 12 GB"
+313627,,,,Card tích hợp,AMD Radeon Graphics
+339688,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+331508,,,,Card tích hợp,Intel Iris Xe Graphics
+333107,,,,Card tích hợp,Intel Iris Xe Graphics
+339684,,,,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+338208,,,,Card tích hợp,AMD Radeon Graphics
+327406,,,,Card tích hợp,Intel UHD Graphics
+327507,,,,Card tích hợp,Intel UHD Graphics
+341626,,,,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+341603,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+328130,,,,Card tích hợp,Intel Graphics
+339954,,,,Card tích hợp,Intel Graphics
+326558,,,,Card tích hợp,Intel Arc Graphics
+337842,,75 W,Lên đến 194 TOPS,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+338315,,,,Card tích hợp,Intel UHD Graphics
+328951,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+327409,,,,Card tích hợp,Intel UHD Graphics
+328950,,,,Card tích hợp,Intel Iris Xe Graphics
+327981,,,,Card tích hợp,Intel Iris Xe Graphics
+341267,,,,Card tích hợp,Intel Graphics
+318354,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+325586,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+338280,,,,Card tích hợp,Intel Arc 140V
+335549,,,,Card tích hợp,AMD Radeon 680M Graphics
+325051,,,,Card tích hợp,Intel Arc Graphics
+339686,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+328946,,,,Card tích hợp,Intel Iris Xe Graphics
+331526,,,,Card tích hợp,AMD Radeon Graphics
+302533,,,,Card tích hợp,Intel Iris Xe Graphics
+325480,,,,Card tích hợp,Intel Iris Xe Graphics
+328473,,,,Card tích hợp,Intel Iris Xe Graphics
+328947,,,,Card rời,"NVIDIA Geforce MX570A, 2 GB"
+327508,,,,Card tích hợp,Intel UHD Graphics
+342514,,,,Card tích hợp,Intel Graphics
+325588,,,,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+329867,,,,Card tích hợp,Intel Arc Graphics
+322098,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+339953,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+339211,,75 W,Lên đến 194 TOPS,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+329858,,,,Card tích hợp,Intel Iris Xe Graphics
+331527,,,,Card tích hợp,Intel Graphics
+309565,,,,Card tích hợp,Intel Iris Xe Graphics
+333098,,,,Card tích hợp,Intel Arc Graphics
+327901,,,,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+327900,,,,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+326194,,,,Card tích hợp,Intel Iris Xe Graphics
+339661,,,,Card tích hợp,Intel Arc Graphics
+313332,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+339647,,,Lên đến 572 TOPS,Card rời,"NVIDIA GeForce RTX 5060, 8 GB"
+332397,,,,Card tích hợp,Intel Arc Graphics 130V
+328945,,,,Card tích hợp,Intel Iris Xe Graphics
+312414,,,,Card tích hợp,Intel UHD Graphics
+327899,,,,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+342501,,,,Card tích hợp,Integrated Graphics
+333873,,,,Card tích hợp,AMD Radeon Graphics
+322003,,,,Card tích hợp,Intel Iris Xe Graphics
+335550,,,,Card tích hợp,Intel UHD Graphics
+340006,,,,Card tích hợp,AMD Radeon Graphics
+335832,,,,Card tích hợp,Intel Arc Graphics
+339680,,,,Card rời,"NVIDIA Geforce MX570A, 2 GB"
+341266,,,,Card tích hợp,Intel Graphics
+334800,,,,Card tích hợp,Qualcomm Adreno GPU
+339212,,75 W,Lên đến 233 TOPS,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+339690,,,,Card rời,"NVIDIA GeForce RTX 5060, 8 GB"
+337237,,,,Card tích hợp,Intel UHD Graphics
+322959,,,,Card tích hợp,Intel Arc Graphics
+334796,,,,Card tích hợp,Intel Arc Graphics
+341623,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+326148,,,,Card tích hợp,Intel Iris Xe Graphics
+333099,,,,Card tích hợp,Intel Arc Graphics
+337242,,,,Card tích hợp,Intel UHD Graphics
+326280,,,,Card rời,"NVIDIA GeForce RTX 4070, 8 GB"
+332579,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+341750,,,,Card rời,"NVIDIA GeForce RTX 5060, 8 GB"
+338321,,,,Card tích hợp,Intel UHD Graphics
+335172,,,,Card tích hợp,AMD Radeon Graphics
+326059,,75 W,Lên đến 80 TOPS,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+329337,,,,Card rời,"NVIDIA GeForce RTX 3050Ti, 4 GB"
+329789,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+323585,,115 W,Lên đến 242 TOPS,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+341608,,,,Card rời,"NVIDIA GeForce RTX 3050, 6 GB"
+317709,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+334799,,,,Card tích hợp,AMD Radeon Graphics
+326824,,,,Card tích hợp,Intel Graphics
+335020,,,,Card tích hợp,Intel Arc 140V
+339659,,,,Card tích hợp,Intel Arc Graphics
+341751,,,,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+339685,,,,Card rời,"NVIDIA GeForce RTX 5060, 8 GB"
+311145,,,,Card tích hợp,Intel Iris Xe Graphics
+315892,,,,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+327408,,,,Card tích hợp,Intel UHD Graphics
+334444,,,,Card tích hợp,Intel UHD Graphics
+339648,,115 W,Lên đến 798 TOPS,Card rời,"NVIDIA GeForce RTX 5070, 8 GB"
+341611,,,,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+321468,,,,Card tích hợp,Intel Arc Graphics
+322099,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+330165,,,,Card tích hợp,Intel Iris Xe Graphics
+334798,,,,Card tích hợp,Intel Arc Graphics
+315911,,,,Card tích hợp,Intel Iris Xe Graphics
+341752,,,,Card rời,"NVIDIA GeForce RTX 5060, 8 GB"
+337241,,,,Card tích hợp,Intel UHD Graphics
+339658,,,,Card tích hợp,Intel Arc 140T
+320431,,,,Card tích hợp,Intel Arc Graphics
+327974,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+325002,,115 W,Lên đến 150 TOPS,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+339662,,,,Card tích hợp,Intel Arc 140V
+337841,,175 W,Lên đến 1334 TOPS,Card rời,"NVIDIA GeForce RTX 5080, 16 GB"
+342752,,50 W - 100 W,Lên đến 440 TOPS,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+326864,,,,Card rời,"NVIDIA Geforce MX570A, 2 GB"
+334802,,,,Card tích hợp,AMD Radeon Graphics
+335835,,,,Card tích hợp,Qualcomm Adreno GPU
+339234,,,,Card tích hợp,Qualcomm Adreno GPU
+337236,,,,Card tích hợp,Intel Arc 140V
+339951,,,,Card tích hợp,AMD Radeon Graphics
+327509,,,,Card tích hợp,Intel Iris Xe Graphics
+334805,,,,Card tích hợp,Intel UHD Graphics
+322269,,,,Card rời,"NVIDIA GeForce RTX 2050, 4 GB"
+335551,,,,Card tích hợp,Intel UHD Graphics
+338313,,,,Card tích hợp,Intel Graphics
+342758,,,,Card tích hợp,Intel UHD Graphics
+330579,,,,Card tích hợp,Intel Arc Graphics
+334806,,,,Card tích hợp,Intel Arc Graphics
+341609,,,,Card rời,"NVIDIA GeForce RTX 5060, 8 GB"
+339541,,,Lên đến 992 TOPS,Card rời,"NVIDIA GeForce RTX 5070Ti, 12 GB"
+325242,,,,Card tích hợp,Intel Iris Xe Graphics
+311117,,,,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+339542,,175 W,Lên đến 1334 TOPS,Card rời,"NVIDIA GeForce RTX 5080, 16 GB"
+339682,,,,Card tích hợp,Qualcomm Adreno GPU
+327982,,,,Card tích hợp,Intel Iris Xe Graphics
+328239,,,,Card tích hợp,Intel Arc Graphics
+341610,,,,Card rời,"NVIDIA GeForce RTX 5060, 8 GB"
+320434,,,,Card rời,"NVIDIA GeForce RTX 4050, 6 GB"
+339650,,115 W,Lên đến 572 TOPS,Card rời,"NVIDIA GeForce RTX 5060, 8 GB"
+340563,,,,Card tích hợp,Qualcomm Adreno GPU
+341564,,,,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+309243,,,,Card tích hợp,Intel UHD Graphics
+325583,,,,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+339660,,,,Card tích hợp,Intel Arc Graphics
+329851,,,,Card tích hợp,Intel Graphics
+334797,,,,Card tích hợp,Intel Arc Graphics
+335181,,,,Card tích hợp,Intel Graphics
+340488,,115 W,Lên đến 440 TOPS,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+339689,,,,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+342495,,,,Card tích hợp,Integrated Graphics
+325575,,,,Card rời,"NVIDIA GeForce RTX 4070, 8 GB"
+342497,,,,Card tích hợp,Integrated Graphics
+341566,,,,Card rời,"NVIDIA GeForce RTX 5060, 8 GB"
+332350,,,,Card tích hợp,Intel Arc 140V
+332352,,,,Card tích hợp,Intel Arc 140V
+341565,,,,Card rời,"NVIDIA GeForce RTX 5060, 8 GB"
+335010,,,,Card rời,"NVIDIA GeForce RTX 5080, 16 GB"
+341567,,,,Card rời,"NVIDIA GeForce RTX 5070, 8 GB"
+335112,,,,Card rời,"NVIDIA GeForce RTX 5080, 16 GB"
+335113,,,,Card rời,"NVIDIA GeForce RTX 5080, 16 GB"
+342756,,,,Card tích hợp,Intel Iris Xe Graphics
+342024,8,,,Card tích hợp,Apple M Series - M4
+231244,7,,,Card tích hợp,Apple M Series - M1
+342942,,45 W,Hãng không công bố,Card rời,"NVIDIA GeForce RTX 3050, 4 GB"
+342755,,,,Card tích hợp,AMD Radeon Graphics
+342507,,100 W,Lên đến 440 TOPS,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+341621,,,,Card tích hợp,Intel Graphics
+342519,,115 W,Lên đến 440 TOPS,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+342941,,,,Card tích hợp,Intel Iris Xe Graphics
+328599,,,,Card tích hợp,Intel UHD Graphics
+332451,32,,,Card tích hợp,Apple M Series - M4 max
+335366,10,,,Card tích hợp,Apple M Series - M4
+341622,,,,Card tích hợp,Intel Graphics
+305009,,,,Card tích hợp,Intel Iris Xe Graphics
+331523,,,,Card tích hợp,Intel Graphics
+331567,10,,,Card tích hợp,Apple M Series - M4
+335369,10,,,Card tích hợp,Apple M Series - M4
+339558,,,,Card tích hợp,AMD Radeon 890M Graphics
+341613,,,,Card rời,"NVIDIA GeForce RTX 5050, 8 GB"
+328598,,,,Card tích hợp,Intel UHD Graphics
+331522,,,,Card tích hợp,Intel Graphics
+332448,10,,,Card tích hợp,Apple M Series - M4
+334694,,140 W,Lên đến 321 TOPS,Card rời,"NVIDIA GeForce RTX 4070, 8 GB"
+337040,,,,Card tích hợp,Qualcomm Adreno GPU
+337844,,105 W,Lên đến 233 TOPS,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+339235,,,,Card tích hợp,AMD Radeon Graphics
+339236,,,,Card tích hợp,AMD Radeon Graphics
+341269,,,,Card tích hợp,Intel Arc 140V
+342505,,,,Card tích hợp,Intel Arc 140V
+284343,,,,Card rời,"NVIDIA GeForce RTX 3050Ti, 4 GB"
+332274,,115 W,Lên đến 242 TOPS,Card rời,"NVIDIA GeForce RTX 4060, 8 GB"
+335015,,,,Card rời,"NVIDIA GeForce RTX 5080, 16 GB"
+335963,,,,Card rời,"NVIDIA GeForce RTX 5090, 24 GB"
+335964,,,,Card rời,"NVIDIA GeForce RTX 5080, 16 GB"
+341268,,,,Card tích hợp,Intel Arc 140V
+341572,,,,Card tích hợp,Intel Arc Graphics
+341573,,,,Card rời,"NVIDIA GeForce RTX 5070, 8 GB"
+342504,,,,Card tích hợp,Intel Arc 140V
+342508,,,,Card tích hợp,Intel Graphics
+342517,,115 W,Lên đến 798 TOPS,Card rời,"NVIDIA GeForce RTX 5070, 8 GB"
+342523,,115 W,Lên đến 572 TOPS,Card rời,"NVIDIA GeForce RTX 5060, 8 GB"
+342721,,50 W - 100 W,Lên đến 798 TOPS,Card rời,"NVIDIA GeForce RTX 5070, 8 GB"
+342725,,,,Card tích hợp,Intel Iris Xe Graphics
