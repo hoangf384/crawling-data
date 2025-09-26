@@ -9,3 +9,7 @@ crawling data from tgdd
 > 08/09/2025
 * thêm pid vào raw-data, các file crawl nhỏ hơn.
 * Việc tiếp theo là etl, join, phân tích.
+
+> /09/2025
+* hoàn thành làm sạch
+*tiếp theo là ETL, join
