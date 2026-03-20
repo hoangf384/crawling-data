@@ -204,10 +204,13 @@ docker-compose up -d
 ---
 
 ## Hướng phát triển
-- [ ] viết script `Load_dim.py` và `Load_fact.py` để load dữ liệu vào MySQL/PostgresSQL.
+
+- [ ] sử dụng BI tool (Metabase, Power BI) để làm chart, trực quan dữ liệu này.
+
 - [ ] sử dụng dbt (data build tool) tiếp tục xử lý ELT bên trong DWH này.
 - [ ] Triển khai **Prefect** để lập lịch chạy cào dữ liệu hàng 
 tuần.
+
 - [ ] Áp dụng Multi-threading để tăng tốc độ cào chi tiết sản phẩm.
 
 ---

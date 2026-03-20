@@ -47,9 +47,9 @@ def load_csv_to_mysql(directory):
                 logger.info(f"Đang đọc file: {filename}...")
                 df = pd.read_csv(file_path)
                 df.to_sql(name=table_name, con=engine, if_exists='replace', index=False)
-                logger.info(f"✅ Đã load {len(df)} dòng vào bảng '{table_name}'")
+                logger.info(f"Đã load {len(df)} dòng vào bảng '{table_name}'")
             except Exception as e:
-                logger.error(f"❌ Lỗi khi load file {filename}: {e}")
+                logger.error(f"Lỗi khi load file {filename}: {e}")
 
 if __name__ == "__main__":
     logger.info("--- BẮT ĐẦU LOAD DỮ LIỆU VÀO MYSQL ---")
