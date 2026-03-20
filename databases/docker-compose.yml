@@ -1,0 +1,22 @@
+services:
+  db:
+    image: mysql:8.0.36
+    container_name: crawler_mysql_db
+    restart: always
+    env_file:
+      - .env
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+    ports:
+      - "${MYSQL_PORT}:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      # Nếu bạn có file script .sql nào muốn chạy ngay khi tạo db, hãy bỏ comment dòng dưới
+      # - ./init:/docker-entrypoint-initdb.d
+
+volumes:
+  mysql_data:
+    driver: local
