@@ -1,0 +1,406 @@
+pid,Kích thước màn hình,Độ phân giải,Tần số quét,Độ phủ màu,Công nghệ màn hình,Tấm nền,Màn hình cảm ứng,Độ sáng
+327098,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",,False,250 nits
+311178,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",TN,False,250 nits
+334442,"15.3""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+335362,"13.6""",Liquid Retina (2560 x 1664),Hãng không công bố,,"['Wide color (P3)', '500 nits brightness', 'True Tone Technology', '1 tỷ màu']",IPS,False,500 nits
+337470,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits', 'WVA']",,False,250 nits
+336967,"15.6""",Full HD,60 Hz,45% NTSC,"['TFT', 'LED Backlit', 'Acer ComfyView']",,False,
+321192,"15.6""",Full HD,120 Hz,,"['Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+338207,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+334792,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits']",,False,250 nits
+334450,"16""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+333427,"15.6""",Full HD,165 Hz,45% NTSC,Acer ComfyView,IPS,False,
+326124,"15.6""",Full HD,144 Hz,45% NTSC,Chống chói Anti Glare,IPS,False,
+289472,"13.6""",Liquid Retina (2560 x 1664),Hãng không công bố,,"['Wide color (P3)', '500 nits brightness', 'True Tone Technology', '1 tỷ màu']",,False,500 nits
+334803,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', 'WVA']",,False,
+335556,"15.6""",Full HD,144 Hz,100% sRGB,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+338323,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits']",IPS,False,250 nits
+326050,"15.6""",Full HD,60 Hz,62.5% sRGB,"['Chống chói Anti Glare', '250 nits']",,False,250 nits
+334996,"14""",2K,60 Hz,45% NTSC,"['LED Backlit', '300 nits', 'Acer ComfyView']",IPS,False,300 nits
+331362,"15.6""",Full HD,60 Hz,45% NTSC,Chống chói Anti Glare,IPS,False,
+325500,"15.6""",Full HD,60 Hz,,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+340564,"15.6""",2.8K,120 Hz,100% DCI-P3,"['Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",,False,600 nits
+338311,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits', 'WVA']",,False,250 nits
+323920,"15.6""",Full HD,60 Hz,62.5% sRGB,"['Chống chói Anti Glare', '250 nits']",,False,250 nits
+334997,"15.6""",Full HD,60 Hz,45% NTSC,"['TFT', '220 nits', 'LED Backlit', 'Acer ComfyView']",,False,220 nits
+335372,"15.3""",Liquid Retina,Hãng không công bố,,"['Wide color (P3)', '500 nits brightness', 'True Tone Technology', '1 tỷ màu']",IPS,False,500 nits
+326279,"15.6""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+310449,"15.6""",Full HD,60 Hz,,Chống chói Anti Glare,IPS,False,
+340486,"15.6""",Full HD,Hãng không công bố,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+334446,"15.3""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+339679,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+333430,"15.6""",Full HD,165 Hz,45% NTSC,Acer ComfyView,IPS,False,
+328235,"15.6""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+321467,"15.6""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+337233,"14""",2K,60 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', 'Low Blue Light', '400 nits']",OLED,False,400 nits
+328237,"16""",2K,144 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",,False,300 nits
+337420,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+334999,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', 'Acer ComfyView']",IPS,False,
+338204,"15.6""",Full HD,144 Hz,62.5% sRGB,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+329786,"15.6""",Full HD,144 Hz,45% NTSC,Chống chói Anti Glare,IPS,False,
+341563,"16""",2.8K,120 Hz,100% sRGB,"['300 nits', 'ComfortView Plus']",,False,300 nits
+326830,"14""",Full HD,60 Hz,62.5% sRGB,300 nits,IPS,True,300 nits
+339683,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits']",IPS,False,250 nits
+333886,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits', 'WVA']",,False,250 nits
+332365,"15.6""",Full HD,144 Hz,100% sRGB,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+333104,"15.6""",Full HD,120 Hz,,WVA,,False,
+311176,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+341612,"15.6""",Full HD,144 Hz,45% NTSC,,IPS,False,
+343120,"15.6""",Full HD,60 Hz,45% NTSC,"['LED-backlit TFT LCD', 'Wide viewing angle', 'Acer ComfyView']",IPS,False,
+335554,"15.6""",Full HD,144 Hz,100% sRGB,"['Low Blue Light', 'G-Sync', 'Chống chói Anti Glare']",,False,
+325247,"15.6""",Full HD,120 Hz,,"['Chống chói Anti Glare', 'LED Backlit', 'WVA']",,False,
+325691,"15.6""",Full HD,60 Hz,62.5% sRGB,"['Chống chói Anti Glare', '250 nits']",,False,250 nits
+328238,"16""",2K,144 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",,False,300 nits
+338206,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+327872,"15.6""",Full HD,144 Hz,"['100% sRGB', '75.35% Adobe RGB', '72% NTSC']","['G-Sync', 'Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+337476,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+326049,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+331564,"14.2""",Liquid Retina XDR display (3024 x 1964),120 Hz,,"['ProMotion', 'Độ sáng XDR: toàn màn hình 1000 nits, cao nhất 1600 nits (chỉ nội dung HDR)', 'Độ sáng SDR: lên đến 1000 nits', 'Wide color (P3)', 'True Tone Technology', '1 tỷ màu']",,False,1000 nits
+326122,"15.6""",Full HD,144 Hz,45% NTSC,Chống chói Anti Glare,IPS,False,
+343121,"15.6""",Full HD,60 Hz,45% NTSC,"['LED-backlit TFT LCD', 'Wide viewing angle', 'Acer ComfyView']",IPS,False,
+339687,"16""",Full HD+,144 Hz,45% NTSC,"['Thời gian phản hồi: 3 ms', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+338278,"15.6""",Full HD,144 Hz,100% sRGB,"['Low Blue Light', 'G-Sync', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+338324,"16""",2K,144 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",IPS,False,300 nits
+337474,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+311177,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+322072,"15.6""",Full HD,144 Hz,100% sRGB,"['Low Blue Light', 'G-Sync', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+328906,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+310447,"15.6""",Full HD,144 Hz,45% NTSC,,IPS,False,
+343122,"15.6""",Full HD,60 Hz,45% NTSC,"['LED-backlit TFT LCD', 'Wide viewing angle', 'Acer ComfyView']",IPS,False,
+339681,"15.6""",Full HD,120 Hz,40% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits', 'WVA']",,False,250 nits
+340560,"15.6""",Full HD,120 Hz,,WVA,,False,
+341270,"15.6""",Full HD,60 Hz,62.5% sRGB,Chống chói Anti Glare,,False,
+330162,"15.6""",Full HD,144 Hz,"['62.5% sRGB', '47.34% Adobe RGB', '45% NTSC']","['Chống chói Anti Glare', 'Adaptive-Sync', '250 nits']",IPS,False,250 nits
+338318,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits']",IPS,False,250 nits
+318163,"15.6""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+339857,"15.6""",Full HD,144 Hz,100% sRGB,"['Low Blue Light', 'G-Sync', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+335553,"15.6""",Full HD,144 Hz,100% sRGB,"['Low Blue Light', 'G-Sync', 'Chống chói Anti Glare']",,False,
+328814,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+327707,"15.6""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+331566,"14.2""",Liquid Retina XDR display (3024 x 1964),120 Hz,,"['ProMotion', 'Độ sáng XDR: toàn màn hình 1000 nits, cao nhất 1600 nits (chỉ nội dung HDR)', 'Độ sáng SDR: lên đến 1000 nits', 'Wide color (P3)', 'True Tone Technology', '1 tỷ màu']",,False,1000 nits
+341607,"15.6""",Full HD,165 Hz,100% sRGB,"['Wide viewing angle', 'LCD', 'TFT', 'Chống chói Anti Glare', 'LED Backlit', 'Acer ComfyView']",IPS,False,
+327050,"15.6""",Full HD,144 Hz,100% sRGB,"['Low Blue Light', 'G-Sync', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+340559,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+336036,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits']",IPS,False,250 nits
+325697,"15.6""",Full HD,144 Hz,45% NTSC,"['Acer ComfyView', '250 nits']",IPS,False,250 nits
+334998,"15.6""",Full HD,144 Hz,45% NTSC,Acer ComfyView,IPS,False,
+328949,"15.6""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,600 nits
+337042,"16""",2K,Hãng không công bố,62.5% sRGB,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+326831,"14""",Full HD,60 Hz,62.5% sRGB,300 nits,IPS,True,300 nits
+327097,"15.6""",Full HD,60 Hz,62.5% sRGB,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+335555,"14""",2K,60 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', '400 nits']",OLED,False,400 nits
+333103,"15.6""",Full HD,120 Hz,,"['Chống chói Anti Glare', 'LED Backlit', 'WVA']",,False,
+341602,"16""",2K,60 Hz,45% NTSC,"['LED Backlit', 'Acer ComfyView', 'WVA']",IPS,False,
+330932,"15.6""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+334689,"15.6""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+338316,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+341618,"15.6""",Full HD,Hãng không công bố,62.5% sRGB,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+338322,"16""",2K,144 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",IPS,False,300 nits
+333102,"15.6""",Full HD,120 Hz,,WVA,,False,
+334794,"16""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+339202,"14""",2K,60 Hz,45% NTSC,,IPS,False,
+322222,"14""",2K,60 Hz,45% NTSC,"['LED Backlit', 'Acer ComfyView']",IPS,False,
+340479,"15.6""",Full HD,Hãng không công bố,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+334449,"14""",2K,60 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', '400 nits']",OLED,False,400 nits
+339587,"14""",2K,60 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', '400 nits']",OLED,False,400 nits
+331568,"14.2""",Liquid Retina XDR display (3024 x 1964),120 Hz,,"['ProMotion', 'Độ sáng XDR: toàn màn hình 1000 nits, cao nhất 1600 nits (chỉ nội dung HDR)', 'Độ sáng SDR: lên đến 1000 nits', 'Wide color (P3)', 'True Tone Technology', '1 tỷ màu']",,False,1000 nits
+326861,"15.6""",Full HD,144 Hz,45% NTSC,Chống chói Anti Glare,IPS,False,
+337044,"16""",2K,Hãng không công bố,62.5% sRGB,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+339581,"14""",2K,60 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', '400 nits']",OLED,False,400 nits
+337472,"15.6""",Full HD,120 Hz,,WVA,,False,
+340491,"14""",Full HD,Hãng không công bố,,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+322270,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits']",,False,250 nits
+338320,"14""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",IPS,False,300 nits
+313177,"15.6""",Full HD,144 Hz,,Acer ComfyView,IPS,False,
+340484,"15.6""",Full HD,Hãng không công bố,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+314630,"15.6""",Full HD,60 Hz,,Acer ComfyView,IPS,False,
+337475,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+340004,"15.6""",Full HD,144 Hz,45% NTSC,Chống chói Anti Glare,IPS,False,
+340558,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+334795,"16""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+327896,"15.6""",Full HD,144 Hz,"['100% sRGB', '75.35% Adobe RGB', '72% NTSC']","['G-Sync', 'Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+340478,"15.6""",Full HD,Hãng không công bố,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+337473,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+333421,"16""",Full HD+,60 Hz,45% NTSC,"['TFT', 'LED Backlit', 'Acer ComfyView']",,False,
+332578,"15.6""",Full HD,60 Hz,45% NTSC,Acer ComfyView,IPS,False,
+340481,"14""",Full HD,Hãng không công bố,62.5% sRGB,300 nits,IPS,True,300 nits
+322073,"15.6""",Full HD,60 Hz,,"['Low Blue Light', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+340487,"15.1""",2.8K,165 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', '500 nits Glossy', 'Dolby Vision']",OLED,False,500 nits
+332450,"14.2""",Liquid Retina XDR display (3024 x 1964),120 Hz,,"['ProMotion', 'Độ sáng XDR: toàn màn hình 1000 nits, cao nhất 1600 nits (chỉ nội dung HDR)', 'Độ sáng SDR: lên đến 1000 nits', 'Wide color (P3)', 'Màn hình Nano-texture', 'True Tone Technology', '1 tỷ màu']",,False,1000 nits
+308697,"15.6""",Full HD,144 Hz,,Chống chói Anti Glare,IPS,False,
+317704,"14""",Full HD,60 Hz,,Chống chói Anti Glare,TN,False,
+325479,"16""",3K,120 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '400 nits', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,400 nits
+333105,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits', 'WVA']",,False,250 nits
+337469,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', 'WVA']",,False,
+337041,"16""",2K,Hãng không công bố,62.5% sRGB,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+333423,"16""",Full HD+,60 Hz,45% NTSC,"['TFT', 'LED Backlit', 'Acer ComfyView']",,False,
+341604,"15.6""",Full HD,144 Hz,45% NTSC,"['LED-backlit TFT LCD', 'Wide viewing angle', 'Acer ComfyView']",IPS,False,
+313974,"16.1""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+339656,"16""",2K,60 Hz,,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+332370,"16""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+314849,"15.6""",Full HD,144 Hz,,,IPS,False,
+334440,"14""",2K,60 Hz,100% DCI-P3,"['Low Blue Light', '400 nits']",OLED,True,400 nits
+342469,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits']",WVA,False,250 nits
+327977,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit']",,False,
+330578,"15.6""",Full HD,144 Hz,"['62.5% sRGB', '47.34% Adobe RGB', '45% NTSC']","['Chống chói Anti Glare', 'Adaptive-Sync', '250 nits']",,False,250 nits
+337043,"16""",2K,Hãng không công bố,62.5% sRGB,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+319657,"15.6""",Full HD,144 Hz,45% NTSC,Acer ComfyView,IPS,False,
+325953,"14""",Full HD+,60 Hz,,"['Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+331506,"14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Low Blue Light', 'LED UWVA', 'Corning Gorilla Glass 3', '400 nits', '500 nits (Khi bật HDR)']",OLED,True,400 nits
+333424,"16""",Full HD+,60 Hz,45% NTSC,"['TFT', 'Chống chói Anti Glare', 'LED Backlit', 'Acer ComfyView']",,False,
+326641,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+339652,"14""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+322100,"16""",2.8K,240 Hz,100% DCI-P3,,IPS,False,
+329853,"15.6""",Full HD,120 Hz,,"['Chống chói Anti Glare', 'LED Backlit', '250 nits', 'WVA']",,False,250 nits
+327898,"15.6""",Full HD,144 Hz,"['100% sRGB', '75.35% Adobe RGB', '72% NTSC']","['G-Sync', 'Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+341568,"15.6""",Full HD,120 Hz,,"['Chống chói Anti Glare', '250 nits']",,False,250 nits
+310839,"15.6""",Full HD,60 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '600 nits', '1.07 tỷ màu']",OLED,False,600 nits
+340483,"14""",Full HD,Hãng không công bố,62.5% sRGB,300 nits,IPS,True,300 nits
+338312,"14""",2K,60 Hz,45% NTSC,"['Display with ComfortView', 'Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+339201,"16""",2K,165 Hz,45% NTSC,"['TFT', 'LED Backlit', 'Acer ComfyView', 'WVA']",,False,
+325699,"15.6""",Full HD,60 Hz,45% NTSC,"['Acer ComfyView', '250 nits']",IPS,False,250 nits
+339653,"16""",2K,60 Hz,,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+329736,"14""",Full HD,60 Hz,45% NTSC,300 nits,IPS,False,300 nits
+339265,"13.3""",2K,Hãng không công bố,100% sRGB,"['Chống chói Anti Glare', '400 nits']",IPS,False,400 nits
+327710,"14""",Full HD,60 Hz,45% NTSC,Chống chói Anti Glare,IPS,False,
+340565,"15.6""",2.8K,120 Hz,100% DCI-P3,"['Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,600 nits
+340562,"15.6""",Full HD,120 Hz,,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+325477,"15.6""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,600 nits
+342526,"15.6""",Full HD,144 Hz,100% sRGB,"['G-Sync', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+323325,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+329852,"14""",Full HD+,60 Hz,45% NTSC,"['Display with ComfortView', 'Chống chói Anti Glare', '250 nits', 'WVA']",,True,250 nits
+333425,"16""",Full HD+,60 Hz,45% NTSC,"['TFT', 'Chống chói Anti Glare', 'LED Backlit', 'Acer ComfyView']",,False,
+339655,"16""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+302209,"15.6""",Full HD,60 Hz,,BrightView,IPS,False,
+338000,"15.6""",Full HD,144 Hz,45% NTSC,,IPS,False,
+309375,"16""",2K,60 Hz,,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+335170,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits']",,False,250 nits
+325244,"14""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+328443,"16.1""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+338279,"15.1""",2.8K,165 Hz,,"['Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '500 nits brightness']",OLED,False,500 nits
+304543,"15.6""",Full HD,60 Hz,,"['TFT', 'LED Backlit', 'Acer ComfyView']",,False,
+332368,"14""",2K,60 Hz,45% NTSC,"['Low Blue Light', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+326637,"14""",2K,60 Hz,45% NTSC,"['TFT', 'LED Backlit', '300 nits', 'Acer ComfyView']",,False,300 nits
+329429,"16.1""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+328474,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+328483,"15.6""",Full HD,144 Hz,100% sRGB,"['Low Blue Light', 'G-Sync', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+316941,"15.6""",Full HD,144 Hz,45% NTSC,"['Wled-backlit', 'Chống chói Anti Glare']",IPS,False,
+317712,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits']",,False,250 nits
+340561,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+338317,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+333094,"16""",2K,165 Hz,100% sRGB,"['G-Sync', 'Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+323335,"13.3""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+272282,"15.6""",Full HD,144 Hz,,"['LED Backlit', 'Acer ComfyView']",IPS,False,
+313973,"16.1""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+321436,"15.6""",Full HD,60 Hz,45% NTSC,Acer ComfyView,IPS,False,
+329112,"15.6""",Full HD,60 Hz,45% NTSC,"['Low Blue Light', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+336968,"15.6""",2K,120 Hz,100% DCI-P3,,OLED,False,
+339616,"14""",2K,60 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', '400 nits']",OLED,False,400 nits
+329787,"14""",2K,144 Hz,100% sRGB,Chống chói Anti Glare,IPS,False,
+337471,"15.6""",Full HD,120 Hz,,WVA,,False,
+336031,"14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 500', 'Low Blue Light', '400 nits', '500 nits (Khi bật HDR)', '1.07 tỷ màu']",,True,400 nits
+335171,"16""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",IPS,False,300 nits
+333872,"13.3""",2K,60 Hz,100% sRGB,"['Chống chói Anti Glare', '400 nits']",IPS,False,400 nits
+326876,"14""",2K,60 Hz,45% NTSC,"['TFT', 'LED Backlit', '300 nits', 'Acer ComfyView']",,False,300 nits
+337843,"16""",2K,165 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+327506,"14""",Full HD,60 Hz,100% sRGB,"['TFT', 'LED Backlit', '300 nits', 'Acer ComfyView']",,False,300 nits
+328815,"14""",2.8K,60 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Low Blue Light', '400 nits', '500 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,True,400 nits
+333197,"15.3""",2.8K,120 Hz,100% DCI-P3,"['Low Blue Light', 'Eyesafe', 'anti-fingerprint', '500 nits brightness', 'Dolby Vision']",IPS,True,500 nits
+339952,"16""",2.8K,240 Hz,100% DCI-P3,"['Chống chói Anti Glare', '500 nits brightness']",IPS,False,500 nits
+313627,"15.6""",Full HD,60 Hz,,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+339688,"16""",2K,144 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",,False,300 nits
+331508,"15.6""",Full HD,120 Hz,,"['Chống chói Anti Glare', 'LED Backlit', '250 nits', 'WVA']",,False,250 nits
+333107,"14""",2K,60 Hz,,"['Display with ComfortView', 'Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+339684,"16""",2K,165 Hz,"['100% sRGB', '75.35% Adobe RGB', '72% NTSC']","['G-Sync', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+338208,"14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Low Blue Light', '400 nits', '500 nits (Khi bật HDR)']",OLED,True,400 nits
+327406,"15.6""",Full HD,60 Hz,45% NTSC,Chống chói Anti Glare,IPS,False,
+327507,"15.6""",Full HD,60 Hz,45% NTSC,"['Acer ComfyView', '250 nits']",,False,250 nits
+341626,"15.6""",Full HD,180 Hz,100% sRGB,"['LCD', 'TFT', 'Chống chói Anti Glare', 'LED Backlit', 'Acer ComfyView', 'eDP Wide View Angle']",IPS,False,
+341603,"15.6""",Full HD,180 Hz,100% sRGB,"['Acer ComfyView', 'WVA']",IPS,False,
+328130,"14""",2K,60 Hz,45% NTSC,"['Low Blue Light', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+339954,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+326558,"14""",2K,60 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', '400 nits']",OLED,False,400 nits
+337842,"16""",2K,165 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+338315,"14""",Full HD,60 Hz,45% NTSC,250 nits,,False,250 nits
+328951,"16""",2K,144 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",IPS,False,300 nits
+327409,"13.3""",Full HD,60 Hz,45% NTSC,250 nits,IPS,False,250 nits
+328950,"15.6""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,600 nits
+327981,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits', 'WVA']",,False,250 nits
+341267,"16""",2K,Hãng không công bố,95% DCI-P3,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+318354,"15.6""",Full HD,144 Hz,45% NTSC,"['Acer ComfyView', '250 nits']",IPS,False,250 nits
+325586,"14""",2K,144 Hz,100% sRGB,,IPS,False,
+338280,"14""",2.8K,120 Hz,100% DCI-P3,"['Low Blue Light', 'Eyesafe', '500 nits brightness', 'Dolby Vision', 'X-Rite', 'HDR 1000']",OLED,False,500 nits
+335549,"15.1""",2.8K,165 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', '500 nits brightness']",OLED,False,500 nits
+325051,"14""",2.8K,120 Hz,100% sRGB,"['Acer ComfyView', '400 nits']",IPS,False,400 nits
+339686,"16""",Full HD+,144 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+328946,"15.6""",Full HD,120 Hz,,WVA,,False,
+331526,"14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Low Blue Light', 'LED UWVA', 'Corning Gorilla Glass 3', '400 nits', '500 nits (Khi bật HDR)']",OLED,True,400 nits
+302533,"15.6""",Full HD,60 Hz,,BrightView,IPS,False,
+325480,"14""",2.8K,90 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '400 nits', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,400 nits
+328473,"15.6""",Full HD,120 Hz,,"['Chống chói Anti Glare', 'WVA']",,False,
+328947,"16""",2K,60 Hz,,"['Chống chói Anti Glare', '250 nits', 'WVA', 'ComfortView Plus']",,False,250 nits
+327508,"16""",2K,60 Hz,45% NTSC,"['300 nits', 'Acer ComfyView']",,False,300 nits
+342514,"14""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+325588,"14""",2.8K,120 Hz,100% DCI-P3,,OLED,False,
+329867,"14""",2K,60 Hz,45% NTSC,"['LED Backlit', 'Acer ComfyView', 'WVA']",,False,
+322098,"15.6""",Full HD,144 Hz,45% NTSC,,IPS,False,
+339953,"15.6""",Full HD,144 Hz,,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+339211,"16""",2K,165 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+329858,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits']",,False,250 nits
+331527,"14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Low Blue Light', 'LED UWVA', 'Corning Gorilla Glass 3', '400 nits', '500 nits (Khi bật HDR)']",OLED,True,400 nits
+309565,"15.6""",Full HD,60 Hz,,BrightView,IPS,False,
+333098,"14""",2.8K,120 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '400 nits', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,400 nits
+327901,"15.6""",Full HD,165 Hz,100% sRGB,"['G-Sync', '300 nits', 'WVA', 'ComfortView Plus']",,False,300 nits
+327900,"15.6""",Full HD,165 Hz,100% sRGB,"['G-Sync', '300 nits', 'WVA', 'ComfortView Plus']",,False,300 nits
+326194,"15.6""",Full HD,120 Hz,,WVA,,False,
+339661,"15.3""",2.8K,120 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', 'Anti-Reflective', 'Eyesafe', 'anti-fingerprint', '500 nits brightness', 'Dolby Vision']",OLED,False,500 nits
+313332,"15.6""",Full HD,144 Hz,,"['LED Backlit', 'Acer ComfyView']",IPS,False,
+339647,"15.1""",2.8K,165 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '500 nits Glossy', 'Dolby Vision', 'High Gaming Performance', 'Flicker Free']",OLED,False,500 nits
+332397,"14""",2.8K,90 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', 'Eyesafe', 'WVA', '550 nits (Khi bật HDR)']",OLED,False,550 nits
+328945,"15.6""",Full HD,120 Hz,,WVA,,False,
+312414,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit']",,False,
+327899,"15.6""",Full HD,144 Hz,"['100% sRGB', '75.35% Adobe RGB', '72% NTSC']","['G-Sync', 'Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+342501,"14""",2K,Hãng không công bố,100% sRGB,"['Chuẩn DisplayHDR True Black 500', '400 nits']",OLED,False,400 nits
+333873,"13.3""",2K,60 Hz,100% sRGB,"['Chống chói Anti Glare', '400 nits']",IPS,False,400 nits
+322003,"14""",2K,60 Hz,,Acer ComfyView,IPS,False,
+335550,"14""",2K,60 Hz,,"['Low Blue Light', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+340006,"15.6""",Full HD,144 Hz,45% NTSC,250 nits,IPS,False,250 nits
+335832,"14""",2.8K,120 Hz,100% DCI-P3,"['Low Blue Light', '400 nits', '500 nits (Khi bật HDR)']",OLED,True,400 nits
+339680,"14""",2.2K,60 Hz,100% sRGB,"['Chống chói Anti Glare', 'WVA', 'ComfortView Plus']",IPS,False,
+341266,"16""",2K,Hãng không công bố,95% DCI-P3,"['Chống chói Anti Glare', '300 nits']",IPS,True,300 nits
+334800,"14""",2K,60 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 600', 'Low Blue Light', 'LED Backlit', '400 nits', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,400 nits
+339212,"16""",2K,165 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+339690,"16""",2K,144 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",,False,300 nits
+337237,"14""",2K,60 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', 'Low Blue Light', '400 nits']",OLED,False,400 nits
+322959,"13.3""",2.8K,60 Hz,100% DCI-P3,Chuẩn DisplayHDR True Black 500,OLED,False,
+334796,"14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 500', 'Low Blue Light', '400 nits', '500 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,True,400 nits
+341623,"15.6""",Full HD,144 Hz,62.5% sRGB,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+326148,"15.6""",Full HD,120 Hz,,WVA,,False,
+333099,"14""",2.8K,120 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '400 nits', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,400 nits
+337242,"14""",2K,60 Hz,45% NTSC,"['Low Blue Light', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+326280,"15.6""",Full HD,144 Hz,45% NTSC,,IPS,False,
+332579,"16""",2K,165 Hz,100% sRGB,"['TFT', 'LED Backlit', 'Acer ComfyView']",,False,
+341750,"16""",2.8K,165 Hz,100% sRGB,400 nits,IPS,False,400 nits
+338321,"14""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",IPS,False,300 nits
+335172,"16""",2.8K,120 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', 'Low Blue Light', '400 nits', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,400 nits
+326059,"16.1""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+329337,"15.6""",Full HD,144 Hz,45% NTSC,"['LED Backlit', 'Acer ComfyView', '250 nits']",,False,250 nits
+329789,"14""",2.8K,60 Hz,100% DCI-P3,"['Chống chói Anti Glare', '400 nits']",IPS,False,400 nits
+323585,"16.1""",QHD,240 Hz,100% sRGB,"['Low Blue Light', 'Thời gian phản hồi: 3 ms', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+341608,"15.6""",Full HD,180 Hz,100% sRGB,"['LCD', 'TFT', 'LED Backlit', 'Acer ComfyView', 'eDP Wide View Angle']",IPS,False,
+317709,"15.6""",Full HD,144 Hz,62.5% sRGB,"['Chống chói Anti Glare', 'Adaptive-Sync']",IPS,False,
+334799,"16""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",IPS,False,300 nits
+326824,"14""",2.8K,60 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Low Blue Light', '500 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,True,500 nits
+335020,"14.1""",2.8K,120 Hz,,"['Chống chói Anti Glare', '400 nits']",OLED,False,400 nits
+339659,"14""",2.8K,120 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', 'Anti-Reflective', 'Eyesafe', 'Chống chói Anti Glare', '500 nits brightness', 'Dolby Vision']",OLED,True,500 nits
+341751,"16""",2K,165 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+339685,"16""",2K,165 Hz,"['100% sRGB', '75.35% Adobe RGB', '72% NTSC']","['G-Sync', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+311145,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+315892,"15.6""",Full HD,144 Hz,"['100% sRGB', '75.35% Adobe RGB', '72% NTSC']","['G-Sync', 'Chống chói Anti Glare', '250 nits']",,False,250 nits
+327408,"15.6""",Full HD,60 Hz,45% NTSC,Chống chói Anti Glare,IPS,False,
+334444,"15.3""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+339648,"15.1""",2.8K,165 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '500 nits Glossy', 'Dolby Vision', 'High Gaming Performance', 'Flicker Free']",OLED,False,500 nits
+341611,"15.6""",QHD,165 Hz,100% DCI-P3,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+321468,"14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '400 nits', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,400 nits
+322099,"15.6""",Full HD,144 Hz,45% NTSC,,IPS,False,
+330165,"15.6""",Full HD,120 Hz,,"['Chống chói Anti Glare', 'LED Backlit', 'WVA']",,False,
+334798,"2x14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Chuẩn DisplayHDR True Black 500', 'Low Blue Light', '400 nits', '500 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,True,400 nits
+315911,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+341752,"16""",2K,165 Hz,45% NTSC,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+337241,"14""",2K,60 Hz,,"['Low Blue Light', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+339658,"14""",2K,60 Hz,,"['Chống chói Anti Glare', '400 nits']",IPS,False,400 nits
+320431,"14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Low Blue Light', 'LED Backlit', '400 nits', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,400 nits
+327974,"15.6""",Full HD,144 Hz,"['62.5% sRGB', '47.34% Adobe RGB', '45% NTSC']","['Chống chói Anti Glare', 'Adaptive-Sync', '250 nits']",IPS,False,250 nits
+325002,"16.1""",Full HD,144 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",,False,250 nits
+339662,"15.3""",2.8K,120 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', 'Anti-Reflective', 'anti-fingerprint', '500 nits brightness', 'Dolby Vision']",OLED,False,500 nits
+337841,"16""",2.8K,240 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', 'Dolby Vision', '400 nits']",OLED,False,400 nits
+342752,"16""",2K,144 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",Hãng không công bố,False,300 nits
+326864,"16""",2.5K,120 Hz,100% sRGB,"['Chống chói Anti Glare', '300 nits', 'WVA']",,False,300 nits
+334802,"14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 600', 'Low Blue Light', 'LED Backlit', '400 nits', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,400 nits
+335835,"14""",2.2K,120 Hz,100% sRGB,"['Low Blue Light', '400 nits']",IPS,True,400 nits
+339234,"16""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",IPS,False,300 nits
+337236,"14""",2.5K,120 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', 'Low Blue Light', 'Eyesafe', '600 nits', 'Dolby Vision', 'X-Rite']",OLED,True,600 nits
+339951,"14""",2.8K,120 Hz,,,OLED,False,
+327509,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits', 'WVA']",,False,250 nits
+334805,"14""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+322269,"15.6""",Full HD,144 Hz,"['62.5% sRGB', '47.34% Adobe RGB', '45% NTSC']","['Chống chói Anti Glare', 'Adaptive-Sync', '250 nits']",IPS,False,250 nits
+335551,"14""",2K,60 Hz,,"['Low Blue Light', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+338313,"13.3""",2K,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",,False,250 nits
+342758,"16""",2K,144 Hz,45% NTSC,300 nits,IPS,False,300 nits
+330579,"14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Chuẩn DisplayHDR True Black 500', '400 nits', '500 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,400 nits
+334806,"14""",2K,60 Hz,100% sRGB,"['Chống chói Anti Glare', 'LED Backlit', '400 nits']",IPS,False,400 nits
+341609,"15.6""",QHD,165 Hz,100% DCI-P3,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+339541,"16""",2.8K,240 Hz,100% DCI-P3,"['Low Blue Light', 'G-Sync', '500 nits Glossy', 'Dolby Vision', 'High Gaming Performance', 'HDR 1000', 'Flicker Free']",OLED,False,500 nits
+325242,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits', 'WVA']",,False,250 nits
+311117,"14""",2.8K,90 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '400 nits', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,400 nits
+339542,"16""",2.8K,240 Hz,100% DCI-P3,"['Low Blue Light', 'G-Sync', '500 nits Glossy', 'Dolby Vision', 'High Gaming Performance', 'HDR 1000', 'Flicker Free']",OLED,False,500 nits
+339682,"14""",Full HD+,60 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits', 'WVA']",,False,300 nits
+327982,"15.6""",Full HD,120 Hz,,"['Chống chói Anti Glare', 'LED Backlit', '250 nits', 'WVA']",,False,250 nits
+328239,"14""",2.8K,120 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', 'Low Blue Light', '400 nits', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,False,400 nits
+341610,"15.6""",QHD,165 Hz,100% DCI-P3,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+320434,"15.6""",Full HD,144 Hz,"['100% sRGB', '75.35% Adobe RGB', '72% NTSC']","['G-Sync', 'Chống chói Anti Glare']",IPS,False,
+339650,"16""",2.8K,165 Hz,100% DCI-P3,"['Low Blue Light', 'G-Sync', '500 nits Glossy', 'Dolby Vision', 'High Gaming Performance', 'HDR 1000', 'Flicker Free']",OLED,False,500 nits
+340563,"14""",2K,60 Hz,,"['Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+341564,"16""",2.8K,120 Hz,100% sRGB,"['300 nits', 'WVA', 'ComfortView Plus']",,False,300 nits
+309243,"15.6""",Full HD,120 Hz,,"['Chống chói Anti Glare', 'LED Backlit', '250 nits', 'WVA']",,False,250 nits
+325583,"16""",2.8K,240 Hz,100% DCI-P3,,IPS,False,
+339660,"14""",2K,60 Hz,100% sRGB,"['Chống chói Anti Glare', '500 nits brightness']",IPS,False,500 nits
+329851,"14""",Full HD+,60 Hz,45% NTSC,"['Display with ComfortView', '250 nits', 'WVA']",,True,250 nits
+334797,"14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 500', 'Low Blue Light', '400 nits', '500 nits (Khi bật HDR)', '1.07 tỷ màu']",OLED,True,400 nits
+335181,"13.3""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+340488,"15.1""",2.8K,165 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', '500 nits Glossy', 'Dolby Vision']",OLED,False,500 nits
+339689,"16""",2K,144 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '300 nits']",,False,300 nits
+342495,"14""",2K,Hãng không công bố,100% sRGB,"['Chuẩn DisplayHDR True Black 500', '400 nits']",OLED,False,400 nits
+325575,"17""",2.8K,165 Hz,100% DCI-P3,,IPS,True,
+342497,"14""",2K,Hãng không công bố,100% DCI-P3,"['Chuẩn DisplayHDR True Black 500', '400 nits']",OLED,False,400 nits
+341566,"16""",2.8K,120 Hz,100% sRGB,"['300 nits', 'WVA', 'ComfortView Plus']",,False,300 nits
+332350,"16""",2.5K,60 Hz,100% DCI-P3,400 nits,OLED,False,400 nits
+332352,"13.3""",2.8K,60 Hz,100% DCI-P3,400 nits,OLED,False,400 nits
+341565,"16""",2.8K,120 Hz,100% sRGB,ComfortView Plus,,False,
+335010,"18""",2.5K,120 Hz,,"['1000 nits', 'Mini LED']",,False,1000 nits
+341567,"16""",2.8K,120 Hz,100% sRGB,"['300 nits', 'WVA', 'ComfortView Plus']",,False,300 nits
+335112,"18""",2.5K,120 Hz,,"['1000 nits', 'Mini LED']",,False,1000 nits
+335113,"18""",2.5K,120 Hz,100% DCI-P3,"['1000 nits', 'Mini LED']",IPS,False,1000 nits
+342756,"15.6""",Full HD,120 Hz,45% NTSC,"['Chống chói Anti Glare', 'LED Backlit', '250 nits']",WVA,False,250 nits
+342024,"13.6""",Liquid Retina (2560 x 1664),Hãng không công bố,,"['Wide color (P3)', '500 nits brightness', 'True Tone Technology', '1 tỷ màu']",IPS,False,500 nits
+231244,"13.3""",Retina (2560 x 1600),Hãng không công bố,,"['LED Backlit', '400 nits', 'True Tone Technology']",IPS,False,400 nits
+342942,"15.6""",Full HD,144 Hz,72% NTSC,Chống chói Anti Glare,IPS,False,
+342755,"15.6""",Full HD,120 Hz,100% sRGB,"['Chống chói Anti Glare', '250 nits']",VA,False,250 nits
+342507,"15.6""",Full HD,144 Hz,100% sRGB,"['G-Sync', 'Chống chói Anti Glare', '300 nits']",IPS,False,300 nits
+341621,"15.6""",Full HD,Hãng không công bố,62.5% sRGB,"['Chống chói Anti Glare', '250 nits']",Hãng không công bố,False,250 nits
+342519,"15.1""",2.8K,165 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', '500 nits Glossy', 'Dolby Vision']",OLED,False,500 nits
+342941,"15.6""",Full HD,60 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+328599,"11.6""",Full HD,60 Hz,,"['220 nits', 'Chống chói Anti Glare']",,False,220 nits
+332451,"14.2""",Liquid Retina XDR display (3024 x 1964),120 Hz,,"['ProMotion', 'Độ sáng XDR: toàn màn hình 1000 nits, cao nhất 1600 nits (chỉ nội dung HDR)', 'Độ sáng SDR: lên đến 1000 nits', 'Wide color (P3)', 'Màn hình Nano-texture', 'True Tone Technology', '1 tỷ màu']",,False,1000 nits
+335366,"13.6""",Liquid Retina (2560 x 1664),Hãng không công bố,,"['Wide color (P3)', '500 nits brightness', 'True Tone Technology', '1 tỷ màu']",IPS,False,500 nits
+341622,"15.6""",Full HD,Hãng không công bố,62.5% sRGB,"['Chống chói Anti Glare', '250 nits']",Hãng không công bố,False,250 nits
+305009,"15.6""",Full HD,60 Hz,,Chống chói Anti Glare,,False,
+331523,"13.3""",2K,60 Hz,100% sRGB,"['Chống chói Anti Glare', '400 nits']",IPS,True,400 nits
+331567,"14.2""",Liquid Retina XDR display (3024 x 1964),120 Hz,,"['ProMotion', 'Độ sáng XDR: toàn màn hình 1000 nits, cao nhất 1600 nits (chỉ nội dung HDR)', 'Độ sáng SDR: lên đến 1000 nits', 'Wide color (P3)', 'True Tone Technology', '1 tỷ màu']",,False,1000 nits
+335369,"13.6""",Liquid Retina (2560 x 1664),Hãng không công bố,,"['Wide color (P3)', '500 nits brightness', 'True Tone Technology', '1 tỷ màu']",IPS,False,500 nits
+339558,"14""",2.8K,120 Hz,100% sRGB,400 nits,OLED,True,400 nits
+341613,"15.6""",QHD,165 Hz,100% DCI-P3,300 nits,IPS,False,300 nits
+328598,"14""",Full HD,60 Hz,,Chống chói Anti Glare,,False,
+331522,"13.3""",2K,60 Hz,100% sRGB,"['Chống chói Anti Glare', '400 nits']",IPS,True,400 nits
+332448,"14.2""",Liquid Retina XDR display (3024 x 1964),120 Hz,,"['ProMotion', 'Độ sáng XDR: toàn màn hình 1000 nits, cao nhất 1600 nits (chỉ nội dung HDR)', 'Độ sáng SDR: lên đến 1000 nits', 'Wide color (P3)', 'Màn hình Nano-texture', 'True Tone Technology', '1 tỷ màu']",,False,1000 nits
+334694,"16""",2.8K,165 Hz,100% sRGB,"['Chống chói Anti Glare', '400 nits']",IPS,False,400 nits
+337040,"14""",2.2K,Hãng không công bố,100% sRGB,,IPS,True,
+337844,"16""",2K,165 Hz,45% NTSC,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
+339235,"14""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 600', 'LED Backlit', '400 nits', '600 nits (Khi bật HDR)', '1.07 tỷ màu']",,False,400 nits
+339236,"16""",2.8K,120 Hz,100% DCI-P3,"['Thời gian phản hồi 0.2 ms', 'Màn hình bảo vệ mắt - EYE CARE', 'Chuẩn DisplayHDR True Black 500', 'Low Blue Light', '400 nits', '500 nits (Khi bật HDR)', '1.07 tỷ màu']",,False,400 nits
+341269,"14""",2.8K,120 Hz,100% DCI-P3,500 nits (Khi bật HDR),OLED,True,500 nits
+342505,"14""",2.8K,120 Hz,100% DCI-P3,"['Eyesafe', 'DisplayHDR True Black 1000', '500 nits', 'Dolby Vision', 'X-Rite', 'PureSight Pro', '1100 nits (peak)']",OLED,False,500 nits
+284343,"15.6""",Full HD,144 Hz,,"['Chống chói Anti Glare', 'Adaptive-Sync', '250 nits']",IPS,False,250 nits
+332274,"14""",2.8K,120 Hz,100% DCI-P3,"['Low Blue Light', '400 nits']",OLED,False,400 nits
+335015,"16""",2.8K,240 Hz,,,IPS,False,
+335963,"18""",2.5K,120 Hz,,"['Độ sáng SDR: 600 nits', 'TFT', 'LED Backlit', 'Acer ComfyView', 'Mini LED', 'HDR 1000']",,False,600 nits
+335964,"18""",2.5K,250 Hz,,"['Độ sáng SDR: 600 nits', 'TFT', 'LED Backlit', 'Acer ComfyView', 'Mini LED', 'HDR 1000']",,False,600 nits
+341268,"14""",2.8K,120 Hz,100% DCI-P3,500 nits (Khi bật HDR),OLED,True,500 nits
+341572,"16""",2.5K,60 Hz,100% DCI-P3,400 nits,OLED,False,400 nits
+341573,"16""",2.8K,240 Hz,100% DCI-P3,OLED,OLED,False,
+342504,"14""",2.8K,120 Hz,100% DCI-P3,"['Eyesafe', 'DisplayHDR True Black 1000', '500 nits', 'Dolby Vision', 'X-Rite', 'PureSight Pro', '1100 nits (peak)']",OLED,False,500 nits
+342508,"14""",2K,60 Hz,100% sRGB,"['500 nits', 'Chống chói Anti Glare']",IPS,True,500 nits
+342517,"15.1""",2.8K,165 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', '500 nits', 'Dolby Vision']",OLED,False,500 nits
+342523,"15.1""",2.8K,165 Hz,100% DCI-P3,"['Chuẩn DisplayHDR True Black 600', '500 nits', 'Dolby Vision']",OLED,False,500 nits
+342721,"16""",2K,165 Hz,100% sRGB,"['Chống chói Anti Glare', '400 nits']",IPS,False,400 nits
+342725,"15.6""",Full HD,Hãng không công bố,62.5% sRGB,"['Chống chói Anti Glare', '250 nits']",IPS,False,250 nits
